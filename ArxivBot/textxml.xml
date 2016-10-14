@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dmath.CO%26id_list%3D%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=math.CO&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/ey2ivLh9ccoVseTA10OPCXwmDtQ</id>
+  <updated>2016-10-14T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">29470</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/1610.04212v1</id>
+    <updated>2016-10-13T19:38:39Z</updated>
+    <published>2016-10-13T19:38:39Z</published>
+    <title>Ewens sampling and invariable generation</title>
+    <summary>  We study the number of random permutations needed to invariably generate the
+symmetric group, $S_n$, when the distribution of cycle counts has the strong
+$\alpha$-logarithmic property. The canonical example is the Ewens sampling
+formula, for which the number of $k$-cycles relates to a conditioned Poisson
+random variable with mean $\alpha/k$. The special case $\alpha =1$ corresponds
+to uniformly random permutations, for which it was recently shown that exactly
+four are needed. For strong $\alpha$-logarithmic measures, and almost every
+$\alpha$, we show that precisely $\left\lceil ( 1- \alpha \log 2 )^{-1}
+\right\rceil$ permutations are needed to invariably generate $S_n$. A corollary
+is that for many other probability measures on $S_n$ no bounded number of
+permutations will invariably generate $S_n$ with positive probability. Along
+the way we generalize classic theorems of Erd\H{o}s, Tehran, Pyber, Luczak and
+Bovey to permutations obtained from the Ewens sampling formula.
+</summary>
+    <author>
+      <name>Gerandy Brito</name>
+    </author>
+    <author>
+      <name>Christopher Fowler</name>
+    </author>
+    <author>
+      <name>Matthew Junge</name>
+    </author>
+    <author>
+      <name>Avi Levy</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">34 pages, 1 figure</arxiv:comment>
+    <link href="http://arxiv.org/abs/1610.04212v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1610.04212v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.GR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="60C05, 12Y05, 68W20, 68W30, 68W40" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.04206v1</id>
+    <updated>2016-10-13T19:18:31Z</updated>
+    <published>2016-10-13T19:18:31Z</published>
+    <title>Enumerating quasi-Yamanouchi tableaux of Durfee size two</title>
+    <summary>  Quasi-Yamanouchi tableaux are a refinement of standard Young tableaux that
+can be used in the expansion of Schur polynomials. We prove a product formula
+for enumerating certain quasi-Yamanouchi tableaux, and provide strong evidence
+that no product formula exists in general for other shapes. Along the way, we
+also prove properties of symmetry and structure.
+</summary>
+    <author>
+      <name>George Wang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">11 pages, 15 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1610.04206v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1610.04206v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="Primary 05A15, Secondary 05E05" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.04187v1</id>
+    <updated>2016-10-13T17:47:34Z</updated>
+    <published>2016-10-13T17:47:34Z</published>
+    <title>Baxter posets</title>
+    <summary>  We define a family of combinatorial objects, which we call Baxter posets. We
+prove that Baxter posets are counted by the Baxter numbers by showing that they
+are the adjacency posets of diagonal rectangulations. Given a diagonal
+rectangulation, we describe the cover relations in the associated Baxter poset.
+Given a Baxter poset, we describe a method for obtaining the associated Baxter
+permutation and the associated twisted Baxter permutation.
+</summary>
+    <author>
+      <name>Emily Meehan</name>
+    </author>
+    <link href="http://arxiv.org/abs/1610.04187v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1610.04187v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1606.00798v4</id>
+    <updated>2016-10-13T17:31:25Z</updated>
+    <published>2016-06-02T18:48:10Z</published>
+    <title>Critical groups of group representations</title>
+    <summary>  This paper investigates the critical group of a faithful representation of a
+finite group. It computes the order of the critical group in terms of the
+character values, and gives some restrictions on its subgroup structure. It
+also computes the precise structure of the critical group both for the regular
+representation of any finite group, and for the reflection representation of
+the symmetric group.
+</summary>
+    <author>
+      <name>Christian Gaetz</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1016/j.laa.2016.07.001</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1016/j.laa.2016.07.001" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">8 pages</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Linear Algebra and its Applications 508 (2016) 91-99</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1606.00798v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1606.00798v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.RT" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1608.03314v4</id>
+    <updated>2016-10-13T16:15:42Z</updated>
+    <published>2016-08-10T23:57:58Z</published>
+    <title>On symmetric 3-wise intersecting families</title>
+    <summary>  A family of sets is said to be symmetric if its automorphism group is
+transitive, and $3$-wise intersecting if any three sets in the family have
+nonempty intersection. Frankl conjectured in 1981 that if $\mathcal{A}$ is a
+symmetric $3$-wise intersecting family of subsets of $\{1,2,\dots,n\}$, then
+$|\mathcal{A}| = o(2^n)$. Here, we give a short proof of Frankl's conjecture
+using a 'sharp threshold' result of Friedgut and Kalai.
+</summary>
+    <author>
+      <name>David Ellis</name>
+    </author>
+    <author>
+      <name>Bhargav Narayanan</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">7 pages, updated conjectures in Section 3, Proceedings of the AMS</arxiv:comment>
+    <link href="http://arxiv.org/abs/1608.03314v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1608.03314v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="05D05 (Primary), 05E18 (Secondary)" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1512.08348v3</id>
+    <updated>2016-10-13T13:59:42Z</updated>
+    <published>2015-12-28T08:53:22Z</published>
+    <title>Hook formulas for skew shapes I. $q$-analogues and bijections</title>
+    <summary>  The celebrated hook-length formula gives a product formula for the number of
+standard Young tableaux of a straight shape. In 2014, Naruse announced a more
+general formula for the number of standard Young tableaux of skew shapes as a
+positive sum over excited diagrams of products of hook-lengths. We give an
+algebraic and a combinatorial proof of Naruse's formula, by using factorial
+Schur functions and a generalization of the Hillman--Grassl correspondence,
+respectively.
+  The main new results are two different $q$-analogues of Naruse's formula: for
+the skew Schur functions, and for counting reverse plane partitions of skew
+shapes. We establish explicit bijections between these objects and families of
+integer arrays with certain nonzero entries, which also proves the second
+formula.
+</summary>
+    <author>
+      <name>Alejandro Morales</name>
+    </author>
+    <author>
+      <name>Igor Pak</name>
+    </author>
+    <author>
+      <name>Greta Panova</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">This is the main part of the first version of "Hook formulas for skew
+  shapes". It contains the statements and proofs (algebraic, bijections), and
+  comparison with other formulas. The application relating q-Euler numbers and
+  Dyck paths are now part of paper II in the series: "Hook formulas for skew
+  shapes II. Combinatorial proofs and enumerative applications"</arxiv:comment>
+    <link href="http://arxiv.org/abs/1512.08348v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1512.08348v3" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AG" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1601.04975v2</id>
+    <updated>2016-10-13T13:25:30Z</updated>
+    <published>2016-01-19T16:16:21Z</published>
+    <title>Tight Bounds for Consensus Systems Convergence</title>
+    <summary>  We analyze the asymptotic convergence of all infinite products of matrices
+taken in a given finite set, by looking only at finite or periodic products. It
+is known that when the matrices of the set have a common nonincreasing
+polyhedral norm, all infinite products converge to zero if and only if all
+infinite periodic products with period smaller than a certain value converge to
+zero, and bounds exist on that value.
+  We provide a stronger bound holding for both polyhedral norms and polyhedral
+seminorms. In the latter case, the matrix products do not necessarily converge
+to 0, but all trajectories of the associated system converge to a common
+invariant space. We prove our bound to be tight, in the sense that for any
+polyhedral seminorm, there is a set of matrices such that not all infinite
+products converge, but every periodic product with period smaller than our
+bound does converge.
+  Our technique is based on an analysis of the combinatorial structure of the
+face lattice of the unit ball of the nonincreasing seminorm. The bound we
+obtain is equal to half the size of the largest antichain in this lattice.
+Explicitly evaluating this quantity may be challenging in some cases. We
+therefore link our problem with the Sperner property: the property that, for
+some graded posets, -- in this case the face lattice of the unit ball -- the
+size of the largest antichain is equal to the size of the largest rank level.
+  We show that some sets of matrices with invariant polyhedral seminorms lead
+to posets that do not have that Sperner property. However, this property holds
+for the polyhedron obtained when treating sets of stochastic matrices, and our
+bound can then be easily evaluated in that case. In particular, we show that
+for the dimension of the space $n \geq 8$, our bound is smaller than the
+previously known bound by a multiplicative factor of $\frac{3}{2 \sqrt{\pi
+n}}$.
+</summary>
+    <author>
+      <name>Pierre-Yves Chevalier</name>
+    </author>
+    <author>
+      <name>Julien M. Hendrickx</name>
+    </author>
+    <author>
+      <name>Raphaël M. Jungers</name>
+    </author>
+    <link href="http://arxiv.org/abs/1601.04975v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1601.04975v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cs.DM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1309.6579v4</id>
+    <updated>2016-10-13T12:59:43Z</updated>
+    <published>2013-09-25T17:12:22Z</published>
+    <title>Labelled seeds and the mutation group</title>
+    <summary>  We study the set S of labelled seeds of a cluster algebra of rank n inside a
+field F as a homogeneous space for the group M_n of (globally defined)
+mutations and relabellings. Regular equivalence relations on S are associated
+to subgroups W of Aut_{M_n}(S), and we thus obtain groupoids W \ S. We show
+that for two natural choices of equivalence relation, the corresponding groups
+W^c and W^+ act on F, and the groupoids W^c \ S and W^+ \ S on the model field
+K=Q(x_1,...,x_n). The groupoid W^+ \ S is equivalent to Fock-Goncharov's
+cluster modular groupoid. Moreover, W^c is isomorphic to the group of cluster
+automorphisms, and W^+ to the subgroup of direct cluster automorphisms, in the
+sense of Assem-Schiffler-Shramchenko. We also prove that, for mutation classes
+whose seeds have mutation finite quivers, the stabilizer of a labelled seed
+under M_n determines the quiver of the seed up to 'similarity', meaning up to
+taking opposites of some of the connected components. Consequently, the
+subgroup W^c is the entire automorphism group of S in these cases.
+</summary>
+    <author>
+      <name>Alastair King</name>
+    </author>
+    <author>
+      <name>Matthew Pressland</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1017/S0305004116000918</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1017/S0305004116000918" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">29 pages. v4; accepted manuscript, to appear, subject to editorial
+  input, in the Mathematical Proceedings of the Cambridge Philosophical Society</arxiv:comment>
+    <link href="http://arxiv.org/abs/1309.6579v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1309.6579v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.RT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.RT" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="13F60 (Primary), 22F30 (Secondary)" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1610.04006v1</id>
+    <updated>2016-10-13T10:09:35Z</updated>
+    <published>2016-10-13T10:09:35Z</published>
+    <title>Finite-size corrections for universal boundary entropy in bond
+  percolation</title>
+    <summary>  We compute the boundary entropy for bond percolation on the square lattice in
+the presence of a boundary loop weight, and prove explicit and exact
+expressions on a strip and on a cylinder of size $L$. For the cylinder we
+provide a rigorous asymptotic analysis which allows for the computation of
+finite-size corrections to arbitrary order. For the strip we provide exact
+expressions that have been verified using high-precision numerical analysis.
+Our rigorous and exact results corroborate an argument based on conformal field
+theory, in particular concerning universal logarithmic corrections for the case
+of the strip due to the presence of corners in the geometry. We furthermore
+observe a crossover at a special value of the boundary loop weight.
+</summary>
+    <author>
+      <name>Jan de Gier</name>
+    </author>
+    <author>
+      <name>Jesper Lykke Jacobsen</name>
+    </author>
+    <author>
+      <name>Anita Ponsaing</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">28 pages, 8 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/1610.04006v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1610.04006v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="82B23, 82B20" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1502.01941v2</id>
+    <updated>2016-10-13T10:02:25Z</updated>
+    <published>2015-02-06T16:36:35Z</published>
+    <title>Embedding convex geometries and a bound on convex dimension</title>
+    <summary>  The notion of an abstract convex geometry offers an abstraction of the
+standard notion of convexity in a linear space. Kashiwabara, Nakamura and
+Okamoto introduce the notion of a generalized convex shelling into $\mathbb{R}$
+and prove that a convex geometry may always be represented with such a
+shelling. We provide a new, shorter proof of their result using a recent
+representation theorem of Richter and Rubinstein, and deduce a different upper
+bound on the dimension of the shelling.
+</summary>
+    <author>
+      <name>Michael Richter</name>
+    </author>
+    <author>
+      <name>Luke G. Rogers</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">- Corrected attribution for Lemma 1 and Theorem 2 - Added an example
+  related to generalized convex shellings of lower-bounded lattices and noted
+  its relevance to convex dimension. - Added a section on embedding convex
+  geometries as convex polygons, including a proof that any convex geometry may
+  be embedded as convex polygons in R^2. - Extended the bibliography. Now 9
+  pages</arxiv:comment>
+    <link href="http://arxiv.org/abs/1502.01941v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1502.01941v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="52A01" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
+

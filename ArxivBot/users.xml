@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user data-id="101">
+        <nom>Zorro</nom>
+        <metier>Danseur</metier>
+    </user>
+    <user data-id="102">
+        <nom>Hulk</nom>
+        <metier>Footballeur</metier>
+    </user>
+    <user data-id="103">
+        <nom>Zidane</nom>
+        <metier>Star</metier>
+    </user>
+    <user data-id="104">
+        <nom>Beans</nom>
+        <metier>Epicier</metier>
+    </user>
+    <user data-id="105">
+        <nom>Batman</nom>
+        <metier>Veterinaire</metier>
+    </user>
+    <user data-id="106">
+        <nom>Spiderman</nom>
+        <metier>Veterinaire</metier>
+    </user>
+</users>
