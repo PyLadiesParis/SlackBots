@@ -1,0 +1,7 @@
+
+# Project specific
+.idea
+.pyc
+.DS_Store
+ImmoBot.log
+__pycache__/private.cpython-34.pyc
