@@ -1,7 +1,5 @@
 import urllib
 from lxml import etree
-url = 'http://export.arxiv.org/api/query?search_query=math.CO&start=0&max_results=10&sortBy=lastUpdatedDate'
-data = urllib.urlopen(url).read()
 
 
 class ArXivParser():
@@ -67,20 +65,60 @@ class ArXivParser():
         tree = etree.parse(filename)
         return self.get_entries(tree)
 
+class RequestURL():
+
+    def __init__(self, baseurl):
+        self._parameters = {}
+        self._baseurl = baseurl
+
+
+    def update_param(self, param, value):
+        self._parameters[param] = value
+
+    def getURL(self):
+        return self._baseurl + "?" + "&".join(k + "=" + str(self._parameters[k]) for k in self._parameters)
+
 class ArXivRequest():
 
     def __init__(self):
-        self._categories = []
-        self._parameters = {"max_results": 100,"sortBy":"lastUpdatedDate","start":0}
         self._baseurl = "http://export.arxiv.org/api/query"
+        self._categories = []
+        self._extra_params = {} #todo
+
 
     def add_category(self, category):
         self._categories.append(category)
 
-    def getURL(self):
-        return self._baseurl + "?search_query=" + "+".join(self._categories) + "&" + "&".join(k + "=" + str(self._parameters[k]) for k in self._parameters)
+    def get_new_entries(self):
+        from datetime import datetime
+        from datetime import timedelta
+        entries_per_page = 100
+        parser = ArXivParser()
+        parser.set_xmlns("http://www.w3.org/2005/Atom")
+        dateformat = "%Y-%m-%dT%H:%M:%SZ"
+        request = RequestURL(self._baseurl)
+        request.update_param("max_results", entries_per_page)
+        request.update_param("sortBy","lastUpdatedDate")
+        request.update_param("search_query", "+".join(self._categories))
+        yesterday = (datetime.today() - timedelta(days=1)).date()
+        entries = []
+        start = 0
+        hasEntries = True
+        while hasEntries:
+            request.update_param("start",start)
+            hasEntries = False
+            for entry in parser.entries_from_file(request.getURL()):
+                entrydate = datetime.strptime(entry["updated"]["text"], dateformat).date()
+                if yesterday != entrydate:
+                    break
+                entries.append(entry)
+            else:
+                hasEntries = True
+                start+= entries_per_page
+        return entries
 
-    def get_new_articles
+
+
 
 #parser = ArXivParser()
 #parser.set_xmlns("http://www.w3.org/2005/Atom")
@@ -89,5 +127,4 @@ class ArXivRequest():
 
 #for a in entries[0]["author"]:
     #print a["name"]["text"]
-
 
