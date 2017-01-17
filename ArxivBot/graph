@@ -1,0 +1,7487 @@
+(icollaboratorFinder
+CollaboratorGraph
+p0
+(dp1
+S'_collaborations'
+p2
+(dp3
+(S'Viviane Pons'
+p4
+S'Jean-Yves Thibon'
+p5
+tp6
+I2
+s(S'Valentin Feray'
+p7
+S'Adeline Pierrot'
+p8
+tp9
+I1
+s(S'Zhi Chen'
+p10
+S'Gizem Karaali'
+p11
+tp12
+I1
+s(S'Jean-Yves Thibon'
+p13
+S'Daniel Krob'
+p14
+tp15
+I2
+s(S'Franco Saliola'
+p16
+S'Andrea Jedwab'
+p17
+tp18
+I1
+s(S'Jean-Christophe Novelli'
+p19
+S'Jean-Yves Thibon'
+p20
+tp21
+I36
+s(S'C. Ryan Vinroot'
+p22
+S'James P. Cossey'
+p23
+tp24
+I1
+s(S'Christophe Tollu'
+p25
+S'Bui Chien'
+p26
+tp27
+I1
+s(S'Nantel Bergeron'
+p28
+S'C. Ryan Vinroot'
+p29
+tp30
+I1
+s(g16
+S'Stuart Margolis'
+p31
+tp32
+I4
+s(S'Lenny Tevlin'
+p33
+S'Andrea Jedwab'
+p34
+tp35
+I1
+s(S'Gizem Karaali'
+p36
+S'Nathaniel Thiem'
+p37
+tp38
+I1
+s(S'Persi Diaconis'
+p39
+S'Jason Fulman'
+p40
+tp41
+I7
+s(S'Gerard Henry Edmond Duchamp'
+p42
+S'K. A. Penson'
+p43
+tp44
+I1
+s(g19
+g28
+tp45
+I1
+s(g42
+S'Jean-Gabriel Luque'
+p46
+tp47
+I5
+s(S'Eric Marberg'
+p48
+S'Brendan Pawlowski'
+p49
+tp50
+I3
+s(S'Gerard H. E. Duchamp'
+p51
+S'Quoc Hoan Ngo'
+p52
+tp53
+I1
+s(g16
+S'Kenneth Johnson'
+p54
+tp55
+I1
+s(S'Jean-Christophe Aval'
+p56
+S'Florent Hivert'
+p57
+tp58
+I1
+s(S'Carolina Benedetti'
+p59
+S'Persi Diaconis'
+p60
+tp61
+I1
+s(S'Mike Zabrocki'
+p62
+S'Emmanuel Briand'
+p63
+tp64
+I1
+s(g36
+S'Aaron Lauve'
+p65
+tp66
+I1
+s(g39
+S'Gizem Karaali'
+p67
+tp68
+I1
+s(g10
+S'C. Ryan Vinroot'
+p69
+tp70
+I1
+s(g7
+S'Amarpreet Rattan'
+p71
+tp72
+I1
+s(S'Marcelo Aguiar'
+p73
+S'Nathaniel Thiem'
+p74
+tp75
+I2
+s(S'Stephen Lewis'
+p76
+S'Huilan Li'
+p77
+tp78
+I1
+s(g36
+S'Xueying Zhao'
+p79
+tp80
+I2
+s(g33
+S'Kay Magaard'
+p81
+tp82
+I1
+s(S'Loic Foissy'
+p83
+S'Frederic Fauvet'
+p84
+tp85
+I2
+s(S'Anne Schilling'
+p86
+S'Brant Jones'
+p87
+tp88
+I1
+s(g33
+S'Gizem Karaali'
+p89
+tp90
+I1
+s(g28
+S'Sami Assaf'
+p91
+tp92
+I1
+s(g73
+S'Kathryn Nyman'
+p93
+tp94
+I2
+s(S'Frederic Patras'
+p95
+S'Jose M. Gracia-Bondia'
+p96
+tp97
+I1
+s(g86
+S'Thomas Lam'
+p98
+tp99
+I3
+s(g10
+S'Ning Yan'
+p100
+tp101
+I1
+s(S'Gregory Chatel'
+p102
+S'Vincent Pilaud'
+p103
+tp104
+I1
+s(S'Tung Le'
+p105
+S'Huilan Li'
+p106
+tp107
+I1
+s(g22
+S'Matthew Ondrus'
+p108
+tp109
+I1
+s(S'Carlos Andre'
+p110
+S'Andrea Jedwab'
+p111
+tp112
+I1
+s(g86
+S'Graham White'
+p113
+tp114
+I1
+s(g19
+g59
+tp115
+I1
+s(g13
+S'Aaron Lauve'
+p116
+tp117
+I2
+s(g19
+g76
+tp118
+I1
+s(g95
+S'Michel Bauer'
+p119
+tp120
+I1
+s(g83
+S'Jeremie Unterberger'
+p121
+tp122
+I1
+s(S'Kenneth Johnson'
+p123
+S'Vidya Venkateswaran'
+p124
+tp125
+I1
+s(g83
+S'Frederic Patras'
+p126
+tp127
+I2
+s(S'Nicolas M. Thiery'
+p128
+S'Nathan Williams'
+p129
+tp130
+I1
+s(g28
+S'Nathaniel Thiem'
+p131
+tp132
+I3
+s(g110
+S'Gizem Karaali'
+p133
+tp134
+I1
+s(g33
+S'Franco Saliola'
+p135
+tp136
+I1
+s(g19
+S'Matthieu Josuat-Verges'
+p137
+tp138
+I2
+s(g16
+S'Gizem Karaali'
+p139
+tp140
+I1
+s(g39
+S'Christos A. Athanasiadis'
+p141
+tp142
+I1
+s(g19
+S'Huilan Li'
+p143
+tp144
+I1
+s(S'Frederic Chapoton'
+p145
+S'Christophe Hohlweg'
+p146
+tp147
+I1
+s(g13
+S'I. Martin Isaacs'
+p148
+tp149
+I2
+s(g33
+S'Vidya Venkateswaran'
+p150
+tp151
+I1
+s(S'Nathaniel Thiem'
+p152
+S'Daniel Bragg'
+p153
+tp154
+I1
+s(g19
+S'Frederic Chapoton'
+p155
+tp156
+I2
+s(g86
+S'S. Ole Warnaar'
+p157
+tp158
+I3
+s(g86
+S'Cristian Lenart'
+p159
+tp160
+I2
+s(g39
+S'Anders Hendrickson'
+p161
+tp162
+I1
+s(g39
+S'Samuel Hsiao'
+p163
+tp164
+I1
+s(g62
+S'Guoce Xin'
+p165
+tp166
+I1
+s(S'I. Martin Isaacs'
+p167
+S'Amy Pang'
+p168
+tp169
+I1
+s(g36
+S'Tung Le'
+p170
+tp171
+I1
+s(g62
+S'Adriano M. Garsia'
+p172
+tp173
+I2
+s(S'Viviane Pons'
+p174
+g102
+tp175
+I3
+s(g36
+S'Amy Pang'
+p176
+tp177
+I1
+s(g28
+S'Thomas Lam'
+p178
+tp179
+I2
+s(g73
+S'Carlos Andre'
+p180
+tp181
+I1
+s(S'Lauren K. Williams'
+p182
+S'Einar Steingrimsson'
+p183
+tp184
+I1
+s(g28
+S'Francois Bergeron'
+p185
+tp186
+I1
+s(g36
+S'Patrick S. Fleming'
+p187
+tp188
+I1
+s(g28
+S'Carsten Lange'
+p189
+tp190
+I1
+s(g33
+S'Nantel Bergeron'
+p191
+tp192
+I1
+s(g51
+S'Jean-Yves Enjalbert'
+p193
+tp194
+I1
+s(g19
+g10
+tp195
+I1
+s(g13
+S'Kay Magaard'
+p196
+tp197
+I2
+s(g19
+S'Jean-Gabriel Luque'
+p198
+tp199
+I2
+s(S'Aaron Lauve'
+p200
+S'Kay Magaard'
+p201
+tp202
+I1
+s(g28
+S'I. Martin Isaacs'
+p203
+tp204
+I1
+s(g19
+S'Frederic Toumazet'
+p205
+tp206
+I1
+s(g200
+S'Nathaniel Thiem'
+p207
+tp208
+I1
+s(S'Amy Pang'
+p209
+S'Arun Ram'
+p210
+tp211
+I1
+s(S'Florent Hivert'
+p212
+S'Patxi Laborde-Zubieta'
+p213
+tp214
+I1
+s(g198
+S'Eric Laugerotte'
+p215
+tp216
+I2
+s(g39
+S'Pablo A. Parrilo'
+p217
+tp218
+I1
+s(g76
+S'Mike Zabrocki'
+p219
+tp220
+I1
+s(g167
+S'C. Ryan Vinroot'
+p221
+tp222
+I1
+s(g10
+S'Andrea Jedwab'
+p223
+tp224
+I1
+s(g123
+S'Gizem Karaali'
+p225
+tp226
+I1
+s(g7
+S'Adrien Boussicault'
+p227
+tp228
+I2
+s(g19
+g152
+tp229
+I1
+s(g73
+S'Samuel Hsiao'
+p230
+tp231
+I1
+s(g13
+S'Zhi Chen'
+p232
+tp233
+I2
+s(g152
+S'Tom Halverson'
+p234
+tp235
+I1
+s(S'Ning Yan'
+p236
+S'Mike Zabrocki'
+p237
+tp238
+I1
+s(g86
+S'Reiho Sakamoto'
+p239
+tp240
+I2
+s(S'Alain Lascoux'
+p241
+S'S. Ole Warnaar'
+p242
+tp243
+I4
+s(g42
+S'Andrzej Horzela'
+p244
+tp245
+I3
+s(S'Vincent Pilaud'
+p246
+S'Nicolai Hahnle'
+p247
+tp248
+I1
+s(g13
+S'Nicolas M. Thiery'
+p249
+tp250
+I2
+s(g10
+S'Kenneth Johnson'
+p251
+tp252
+I1
+s(g137
+S'Sylvie Corteel'
+p253
+tp254
+I3
+s(g86
+S'Ghislain Fourier'
+p255
+tp256
+I2
+s(g48
+S'C. Ryan Vinroot'
+p257
+tp258
+I1
+s(g73
+S'Kenneth Johnson'
+p259
+tp260
+I1
+s(g16
+S'Aaron Lauve'
+p261
+tp262
+I2
+s(g110
+S'Eric Marberg'
+p263
+tp264
+I1
+s(g86
+S'Patricia Hersh'
+p265
+tp266
+I1
+s(g25
+S'Frederic Toumazet'
+p267
+tp268
+I1
+s(g13
+S'Ning Yan'
+p269
+tp270
+I2
+s(g28
+S'Kathryn Nyman'
+p271
+tp272
+I1
+s(g110
+S'Aaron Lauve'
+p273
+tp274
+I1
+s(S'Samuel Hsiao'
+p275
+S'Andrea Jedwab'
+p276
+tp277
+I1
+s(g275
+S'Aaron Lauve'
+p278
+tp279
+I1
+s(g59
+S'Tung Le'
+p280
+tp281
+I1
+s(g275
+S'Tung Le'
+p282
+tp283
+I1
+s(g123
+S'Aaron Lauve'
+p284
+tp285
+I1
+s(g212
+S'Nantel Bergeron'
+p286
+tp287
+I1
+s(g7
+S'Alain Lascoux'
+p288
+tp289
+I1
+s(g110
+S'Stephen Lewis'
+p290
+tp291
+I1
+s(S'Anders Hendrickson'
+p292
+S'Samuel Hsiao'
+p293
+tp294
+I1
+s(g59
+S'Nathaniel Thiem'
+p295
+tp296
+I1
+s(g16
+S'C. Ryan Vinroot'
+p297
+tp298
+I1
+s(g73
+S'Zhi Chen'
+p299
+tp300
+I1
+s(g73
+S'T. Kyle Petersen'
+p301
+tp302
+I1
+s(g25
+S'Quoc Hoan Ngo'
+p303
+tp304
+I1
+s(g10
+S'Anders Hendrickson'
+p305
+tp306
+I1
+s(g137
+S'Jang Soo Kim'
+p307
+tp308
+I3
+s(g42
+S'Bui Chien'
+p309
+tp310
+I1
+s(g39
+S'Vidya Venkateswaran'
+p311
+tp312
+I1
+s(g198
+S'Conrad Hillaret'
+p313
+tp314
+I1
+s(g123
+S'Ning Yan'
+p315
+tp316
+I1
+s(g10
+S'Mike Zabrocki'
+p317
+tp318
+I1
+s(g10
+S'Mingzhong Cai'
+p319
+tp320
+I1
+s(g62
+S'Jennifer Morse'
+p321
+tp322
+I2
+s(g25
+S'Vincel Hoang Ngoc Minh'
+p323
+tp324
+I3
+s(g16
+S'Hugh Thomas'
+p325
+tp326
+I1
+s(g62
+S'Chris Berg'
+p327
+tp328
+I7
+s(g292
+S'C. Ryan Vinroot'
+p329
+tp330
+I1
+s(g145
+S'Pierre Baumann'
+p331
+tp332
+I1
+s(g86
+S'Lipika Deka'
+p333
+tp334
+I1
+s(g292
+S'Ning Yan'
+p335
+tp336
+I1
+s(g145
+S'Samuele Giraudo'
+p337
+tp338
+I1
+s(g105
+S'Stephen Lewis'
+p339
+tp340
+I1
+s(g16
+S'Amy Pang'
+p341
+tp342
+I1
+s(g110
+S'Kay Magaard'
+p343
+tp344
+I1
+s(g198
+S'Florent Nicart'
+p345
+tp346
+I2
+s(g86
+S'Qiang Wang'
+p347
+tp348
+I1
+s(g167
+S'Aaron Lauve'
+p349
+tp350
+I1
+s(g28
+S'Frank Sottile'
+p351
+tp352
+I9
+s(S'Bernard Leclerc'
+p353
+S'Alain Chenciner'
+p354
+tp355
+I1
+s(g241
+S'Gyula Karolyi'
+p356
+tp357
+I1
+s(g167
+S'Eric Marberg'
+p358
+tp359
+I1
+s(g33
+S'Anders Hendrickson'
+p360
+tp361
+I1
+s(g19
+g275
+tp362
+I1
+s(g13
+S'Mike Zabrocki'
+p363
+tp364
+I2
+s(g33
+S'Eric Marberg'
+p365
+tp366
+I1
+s(g167
+S'Ning Yan'
+p367
+tp368
+I1
+s(g246
+S'Christophe Hohlweg'
+p369
+tp370
+I1
+s(g33
+S'Amy Pang'
+p371
+tp372
+I1
+s(g19
+g241
+tp373
+I1
+s(g56
+S'Angela Hicks'
+p374
+tp375
+I1
+s(S'Vidya Venkateswaran'
+p376
+S'Mike Zabrocki'
+p377
+tp378
+I1
+s(g198
+S'Karol A. Penson'
+p379
+tp380
+I1
+s(g246
+S'Jurgen Bokowski'
+p381
+tp382
+I3
+s(g145
+S'Sergey Fomin'
+p383
+tp384
+I1
+s(S'Maxim Nazarov'
+p385
+S'Vitaly Tarasov'
+p386
+tp387
+I1
+s(g376
+S'Ning Yan'
+p388
+tp389
+I1
+s(g73
+S'Rosa C. Orellana'
+p390
+tp391
+I1
+s(g51
+S'Andrzej Horzela'
+p392
+tp393
+I1
+s(S'Andrea Jedwab'
+p394
+S'Vidya Venkateswaran'
+p395
+tp396
+I1
+s(g110
+S'Vidya Venkateswaran'
+p397
+tp398
+I1
+s(g39
+S'Sourav Chatterjee'
+p399
+tp400
+I2
+s(g36
+S'Chaya Coppersmith'
+p401
+tp402
+I2
+s(g39
+S'Svante Janson'
+p403
+tp404
+I4
+s(g198
+S'Adrien Boussicault'
+p405
+tp406
+I3
+s(g19
+g123
+tp407
+I1
+s(g13
+S'Valentin Feray'
+p408
+tp409
+I4
+s(g7
+S'Ashkan Nikeghbali'
+p410
+tp411
+I1
+s(S'Kay Magaard'
+p412
+S'Amy Pang'
+p413
+tp414
+I1
+s(g292
+S'Andrea Jedwab'
+p415
+tp416
+I1
+s(g16
+S'Ning Yan'
+p417
+tp418
+I1
+s(g198
+S'Noemie Debroux'
+p419
+tp420
+I1
+s(g128
+S'Jason Bandlow'
+p421
+tp422
+I1
+s(g16
+S'Tung Le'
+p423
+tp424
+I1
+s(g198
+S'Ludovic Mignot'
+p425
+tp426
+I3
+s(g209
+S'Mike Zabrocki'
+p427
+tp428
+I1
+s(g145
+S'Andrei Zelevinsky'
+p429
+tp430
+I1
+s(g167
+S'Stephen Lewis'
+p431
+tp432
+I1
+s(g200
+S'Franco V. Saliola'
+p433
+tp434
+I1
+s(g48
+S'Vidya Venkateswaran'
+p435
+tp436
+I1
+s(g28
+S'Huilan Li'
+p437
+tp438
+I4
+s(g13
+S'C. Ryan Vinroot'
+p439
+tp440
+I2
+s(g236
+S'Ning Chen'
+p441
+tp442
+I1
+s(g137
+S'C. Y. Amy Pang'
+p443
+tp444
+I1
+s(g145
+S'Florent Hivert'
+p445
+tp446
+I2
+s(g110
+S'Carolina Benedetti'
+p447
+tp448
+I1
+s(g13
+S'Gizem Karaali'
+p449
+tp450
+I2
+s(g246
+S'Guillaume Chapuy'
+p451
+tp452
+I1
+s(g152
+S'Ning Yan'
+p453
+tp454
+I1
+s(g28
+S'Persi Diaconis'
+p455
+tp456
+I1
+s(g123
+S'Kay Magaard'
+p457
+tp458
+I1
+s(g19
+g33
+tp459
+I3
+s(g145
+S'Laurent Manivel'
+p460
+tp461
+I1
+s(g110
+S'Mike Zabrocki'
+p462
+tp463
+I1
+s(g19
+g73
+tp464
+I2
+s(g19
+g56
+tp465
+I3
+s(g48
+S'Amy Pang'
+p466
+tp467
+I1
+s(g73
+S'Frank Sottile'
+p468
+tp469
+I5
+s(g95
+S'Anke Wiese'
+p470
+tp471
+I1
+s(g22
+S'Jason Fulman'
+p472
+tp473
+I1
+s(g394
+S'Tung Le'
+p474
+tp475
+I1
+s(g59
+S'Amy Pang'
+p476
+tp477
+I1
+s(g39
+S'Bhaswar B. Bhattacharya'
+p478
+tp479
+I1
+s(g13
+S'Jean-Gabriel Luque'
+p480
+tp481
+I4
+s(g51
+S'Luai Jaff'
+p482
+tp483
+I1
+s(g62
+S'Christophe Reutenauer'
+p484
+tp485
+I1
+s(g246
+S'Steven Klee'
+p486
+tp487
+I1
+s(g385
+S'Paolo Papi'
+p488
+tp489
+I1
+s(g39
+S'Aaron Lauve'
+p490
+tp491
+I1
+s(g39
+S'Andrea Jedwab'
+p492
+tp493
+I1
+s(g275
+S'T. Kyle Petersen'
+p494
+tp495
+I2
+s(g209
+S'Vidya Venkateswaran'
+p496
+tp497
+I1
+s(g62
+S'Luc Lapointe'
+p498
+tp499
+I1
+s(g28
+S'Steven Pon'
+p500
+tp501
+I1
+s(g51
+S'Vincel Hoang Ngoc Minh'
+p502
+tp503
+I2
+s(g292
+S'Aaron Lauve'
+p504
+tp505
+I1
+s(g73
+S'Persi Diaconis'
+p506
+tp507
+I1
+s(g13
+S'Nathaniel Thiem'
+p508
+tp509
+I2
+s(g292
+S'Tung Le'
+p510
+tp511
+I1
+s(g200
+S'Amy Pang'
+p512
+tp513
+I1
+s(g56
+S"Michele D'Adderio"
+p514
+tp515
+I2
+s(g7
+S'Ekaterina A. Vassilieva'
+p516
+tp517
+I1
+s(g73
+S'Swapneel Mahajan'
+p518
+tp519
+I1
+s(g394
+S'Amy Pang'
+p520
+tp521
+I1
+s(g19
+g167
+tp522
+I1
+s(g110
+S'Tung Le'
+p523
+tp524
+I1
+s(g42
+S'Marianne Deboysson-Flouret'
+p525
+tp526
+I1
+s(g13
+S'Frederic Chapoton'
+p527
+tp528
+I2
+s(g7
+S'Guillaume Chapuy'
+p529
+tp530
+I2
+s(g105
+S'Nathaniel Thiem'
+p531
+tp532
+I1
+s(g376
+S'C. Ryan Vinroot'
+p533
+tp534
+I1
+s(g19
+g128
+tp535
+I1
+s(g198
+S'Marianne Deboysson-Flouret'
+p536
+tp537
+I1
+s(g412
+S'Ning Yan'
+p538
+tp539
+I1
+s(g39
+S'Stephen Boyd'
+p540
+tp541
+I1
+s(g25
+S'Van Chien Bui'
+p542
+tp543
+I1
+s(g246
+S'Julian Pfeifle'
+p544
+tp545
+I2
+s(g51
+S'Hatem Hadj Kacem'
+p546
+tp547
+I1
+s(g19
+g86
+tp548
+I1
+s(g19
+g394
+tp549
+I1
+s(g19
+g236
+tp550
+I1
+s(g76
+S'Kay Magaard'
+p551
+tp552
+I1
+s(g39
+S'Alexei Borodin'
+p553
+tp554
+I1
+s(g59
+S'Mike Zabrocki'
+p555
+tp556
+I1
+s(g10
+S'Nathaniel Thiem'
+p557
+tp558
+I1
+s(g209
+S'Ning Yan'
+p559
+tp560
+I1
+s(g42
+S'Chen Bui'
+p561
+tp562
+I1
+s(g56
+S'Patxi Laborde-Zubieta'
+p563
+tp564
+I1
+s(g56
+S'Yvan Le Borgne'
+p565
+tp566
+I2
+s(g246
+S'Christian Stump'
+p567
+tp568
+I3
+s(S'Frederic Menous'
+p569
+S'Frederic Fauvet'
+p570
+tp571
+I1
+s(g200
+S'Tung Le'
+p572
+tp573
+I1
+s(g145
+S'Riccardo Biagioli'
+p574
+tp575
+I1
+s(g275
+S'Ning Yan'
+p576
+tp577
+I1
+s(g48
+S'Ning Yan'
+p578
+tp579
+I1
+s(g33
+S'Carlos Andre'
+p580
+tp581
+I1
+s(g83
+S'Dominique Manchon'
+p582
+tp583
+I2
+s(g143
+S'Eric Marberg'
+p584
+tp585
+I1
+s(g13
+S'Carlos Andre'
+p586
+tp587
+I2
+s(g48
+S'Nathaniel Thiem'
+p588
+tp589
+I2
+s(g200
+S'Frank Sottile'
+p590
+tp591
+I5
+s(g292
+S'Mike Zabrocki'
+p592
+tp593
+I1
+s(g7
+S'Lucas Gerin'
+p594
+tp595
+I1
+s(g13
+g95
+tp596
+I2
+s(g13
+S'Nantel Bergeron'
+p597
+tp598
+I4
+s(g86
+S'Philip Sternberg'
+p599
+tp600
+I1
+s(g62
+S'Mercedes Rosas'
+p601
+tp602
+I3
+s(g200
+S'Ning Yan'
+p603
+tp604
+I1
+s(g128
+S'Maurice Pouzet'
+p605
+tp606
+I3
+s(g59
+S'Anders Hendrickson'
+p607
+tp608
+I1
+s(g16
+S'Persi Diaconis'
+p609
+tp610
+I1
+s(g275
+S'I. Martin Isaacs'
+p611
+tp612
+I1
+s(g292
+S'Gizem Karaali'
+p613
+tp614
+I1
+s(g59
+S'Samuel Hsiao'
+p615
+tp616
+I1
+s(g128
+S'Nicolas Borie'
+p617
+tp618
+I2
+s(g73
+S'Vidya Venkateswaran'
+p619
+tp620
+I1
+s(g62
+S'Andrew Brown'
+p621
+tp622
+I1
+s(g39
+S'Bobbie Chern'
+p623
+tp624
+I2
+s(g19
+g39
+tp625
+I1
+s(g28
+S'Ning Yan'
+p626
+tp627
+I1
+s(g212
+S'Gerard H. E. Duchamp'
+p628
+tp629
+I1
+s(g28
+S'Cesar Ceballos'
+p630
+tp631
+I2
+s(g25
+S'Karol A. Penson'
+p632
+tp633
+I1
+s(g209
+S'Nathaniel Thiem'
+p634
+tp635
+I1
+s(g10
+S'Xin Chen'
+p636
+tp637
+I1
+s(g56
+S'Mathilde Bouvel'
+p638
+tp639
+I1
+s(g39
+S'Xuancheng Shao'
+p640
+tp641
+I1
+s(g143
+S'Kay Magaard'
+p642
+tp643
+I1
+s(g59
+S'Federico Ardila'
+p644
+tp645
+I1
+s(g73
+S'Anders Hendrickson'
+p646
+tp647
+I1
+s(g105
+S'Mike Zabrocki'
+p648
+tp649
+I1
+s(g33
+S'Aaron Lauve'
+p650
+tp651
+I1
+s(g246
+S'Benjamin Matschke'
+p652
+tp653
+I1
+s(g110
+S'Kenneth Johnson'
+p654
+tp655
+I1
+s(g56
+S'Philippe Nadeau'
+p656
+tp657
+I1
+s(g13
+S'Kenneth Johnson'
+p658
+tp659
+I2
+s(g33
+S'Nathaniel Thiem'
+p660
+tp661
+I1
+s(g73
+S'Andrea Jedwab'
+p662
+tp663
+I1
+s(g19
+g16
+tp664
+I2
+s(g86
+S'Arvind Ayyer'
+p665
+tp666
+I5
+s(g73
+S'Ning Yan'
+p667
+tp668
+I1
+s(g200
+S'Eric Marberg'
+p669
+tp670
+I1
+s(g152
+S'Mike Zabrocki'
+p671
+tp672
+I1
+s(g25
+S'Nguyen Hoang Nghia'
+p673
+tp674
+I1
+s(g143
+S'Vidya Venkateswaran'
+p675
+tp676
+I1
+s(g200
+S'Sarah Mason'
+p677
+tp678
+I1
+s(g42
+S'Laurent Poinsot'
+p679
+tp680
+I1
+s(g275
+S'Stephen Lewis'
+p681
+tp682
+I1
+s(g59
+S'Bruce Sagan'
+p683
+tp684
+I1
+s(g13
+g83
+tp685
+I2
+s(g7
+S'Maciej Dolega'
+p686
+tp687
+I6
+s(g241
+S'Jan de Gier'
+p688
+tp689
+I1
+s(g62
+S'Anouk Bergeron-Brlek'
+p690
+tp691
+I1
+s(g198
+S'Gerard Duchamp'
+p692
+tp693
+I3
+s(g246
+S'Henning Bruhn-Fujimoto'
+p694
+tp695
+I1
+s(g33
+S'C. Ryan Vinroot'
+p696
+tp697
+I1
+s(g86
+S'Nathan Williams'
+p698
+tp699
+I1
+s(g241
+S'Eric M. Rains'
+p700
+tp701
+I1
+s(g7
+S'Mathilde Bouvel'
+p702
+tp703
+I1
+s(g198
+S'Hacene Belbachir'
+p704
+tp705
+I1
+s(g86
+S'Florent Hivert'
+p706
+tp707
+I4
+s(g569
+S'Frederic Patras'
+p708
+tp709
+I2
+s(g86
+S'Nicolas M. Thiery'
+p710
+tp711
+I9
+s(g123
+S'Amy Pang'
+p712
+tp713
+I1
+s(g128
+S'Graham White'
+p714
+tp715
+I1
+s(g19
+g51
+tp716
+I1
+s(g39
+S'Tung Le'
+p717
+tp718
+I1
+s(g128
+S'Tom Denton'
+p719
+tp720
+I1
+s(g110
+S'Huilan Li'
+p721
+tp722
+I1
+s(g62
+S'Steven Pon'
+p723
+tp724
+I1
+s(g145
+S'Jean-Christophe Aval'
+p725
+tp726
+I1
+s(g13
+S'Lenny Tevlin'
+p727
+tp728
+I6
+s(g152
+S'Victor Reiner'
+p729
+tp730
+I1
+s(g7
+S'Jehanne Dousse'
+p731
+tp732
+I1
+s(g36
+S'Sinan Aksoy'
+p733
+tp734
+I2
+s(g59
+S'Eric Marberg'
+p735
+tp736
+I1
+s(g16
+S'Vidya Venkateswaran'
+p737
+tp738
+I1
+s(g51
+S'Van Chien Bui'
+p739
+tp740
+I1
+s(g56
+S'Mark Dukes'
+p741
+tp742
+I2
+s(g167
+S'Mike Zabrocki'
+p743
+tp744
+I1
+s(g36
+S'Huilan Li'
+p745
+tp746
+I1
+s(g28
+S'Amy Pang'
+p747
+tp748
+I1
+s(g39
+S'C. Y. Amy Pang'
+p749
+tp750
+I1
+s(g39
+S'Lin Xiao'
+p751
+tp752
+I1
+s(g28
+S'Philippe Choquette'
+p753
+tp754
+I1
+s(g143
+S'Nathaniel Thiem'
+p755
+tp756
+I1
+s(g167
+S'Kenneth Johnson'
+p757
+tp758
+I1
+s(g73
+S'Mike Zabrocki'
+p759
+tp760
+I1
+s(g16
+S'Benjamin Steinberg'
+p761
+tp762
+I4
+s(g86
+S'John Rhodes'
+p763
+tp764
+I1
+s(g145
+S'Jiang Zeng'
+p765
+tp766
+I1
+s(g33
+S'Ning Yan'
+p767
+tp768
+I1
+s(g28
+S'Muriel Livernet'
+p769
+tp770
+I2
+s(g59
+S'Nantel Bergeron'
+p771
+tp772
+I4
+s(g292
+S'Amy Pang'
+p773
+tp774
+I1
+s(g36
+S'Mike Zabrocki'
+p775
+tp776
+I1
+s(g13
+S'Lauren K. Williams'
+p777
+tp778
+I2
+s(g143
+S'Ning Yan'
+p779
+tp780
+I1
+s(g95
+S'Christian Brouder'
+p781
+tp782
+I1
+s(g73
+S'Samuel K. Hsiao'
+p783
+tp784
+I1
+s(g394
+S'Huilan Li'
+p785
+tp786
+I1
+s(g19
+g22
+tp787
+I1
+s(g394
+S'Kay Magaard'
+p788
+tp789
+I1
+s(g25
+S'Laurent Poinsot'
+p790
+tp791
+I1
+s(g128
+S'Arvind Ayyer'
+p792
+tp793
+I3
+s(g16
+S'Huilan Li'
+p794
+tp795
+I1
+s(g394
+S'Gizem Karaali'
+p796
+tp797
+I1
+s(g246
+S'Thibault Manneville'
+p798
+tp799
+I2
+s(g16
+S'Amy Glen'
+p800
+tp801
+I1
+s(g62
+S'A. M. Garsia'
+p802
+tp803
+I1
+s(g73
+S'Walter Moreira'
+p804
+tp805
+I2
+s(g62
+S'Hugh Thomas'
+p806
+tp807
+I1
+s(g7
+S'Victor Reiner'
+p808
+tp809
+I2
+s(g13
+S'Jean-Christophe Aval'
+p810
+tp811
+I6
+s(g198
+S'Matthieu Deneufchatel'
+p812
+tp813
+I2
+s(g28
+S'Kay Magaard'
+p814
+tp815
+I1
+s(g275
+S'Mike Zabrocki'
+p816
+tp817
+I1
+s(g51
+S'Cyrille Bertelle'
+p818
+tp819
+I1
+s(g16
+S'Luis Serrano'
+p820
+tp821
+I7
+s(g56
+S'Nantel Bergeron'
+p822
+tp823
+I3
+s(g128
+S'Pouzet Maurice'
+p824
+tp825
+I1
+s(g59
+S'Huilan Li'
+p826
+tp827
+I1
+s(g110
+S'I. Martin Isaacs'
+p828
+tp829
+I1
+s(g62
+S'Jason Bandlow'
+p830
+tp831
+I1
+s(g13
+S'Alain Lascoux'
+p832
+tp833
+I2
+s(g241
+S'Adrien Boussicault'
+p834
+tp835
+I1
+s(g13
+g353
+tp836
+I4
+s(g353
+S'Maxim Nazarov'
+p837
+tp838
+I1
+s(g212
+S'Nicolas M. Thiery'
+p839
+tp840
+I7
+s(g56
+S'Xavier Gerard Viennot'
+p841
+tp842
+I1
+s(g275
+S'Gizem Karaali'
+p843
+tp844
+I2
+s(g275
+S'Samuel K. Hsiao'
+p845
+tp846
+I8
+s(g51
+S'Pawel Blasiak'
+p847
+tp848
+I1
+s(g28
+S'Hugh Thomas'
+p849
+tp850
+I2
+s(g198
+S'Jean-Philippe Dubernard'
+p851
+tp852
+I1
+s(g73
+S'Gizem Karaali'
+p853
+tp854
+I1
+s(g39
+S'Steven N. Evans'
+p855
+tp856
+I1
+s(g167
+S'Huilan Li'
+p857
+tp858
+I1
+s(g200
+S'Mike Zabrocki'
+p859
+tp860
+I1
+s(g39
+S'Kay Magaard'
+p861
+tp862
+I1
+s(g42
+S'Allan I. Solomon'
+p863
+tp864
+I5
+s(g143
+S'Amy Pang'
+p865
+tp866
+I1
+s(g241
+S'Alexander Kirillov, Jr'
+p867
+tp868
+I1
+s(g86
+S'Masato Okado'
+p869
+tp870
+I7
+s(g59
+S'Gizem Karaali'
+p871
+tp872
+I1
+s(g95
+S'Manfred Schocker'
+p873
+tp874
+I2
+s(g167
+S'Andrea Jedwab'
+p875
+tp876
+I1
+s(g36
+S'Ning Yan'
+p877
+tp878
+I1
+s(g198
+S'Bruno Patrou'
+p879
+tp880
+I1
+s(g28
+S'Stephen Lewis'
+p881
+tp882
+I1
+s(g246
+S'Julien Ferte'
+p883
+tp884
+I1
+s(g39
+S'Daniel M. Kane'
+p885
+tp886
+I2
+s(g36
+S'C. Ryan Vinroot'
+p887
+tp888
+I1
+s(g569
+S'Matthieu Josuat-Verges'
+p889
+tp890
+I1
+s(g76
+S'Eric Marberg'
+p891
+tp892
+I1
+s(g28
+S'Aaron Lauve'
+p893
+tp894
+I1
+s(g241
+S'Michel Lassalle'
+p895
+tp896
+I1
+s(g28
+S'Eric Marberg'
+p897
+tp898
+I1
+s(g7
+S'Pierre-Loic Meliot'
+p899
+tp900
+I1
+s(g28
+S'Christophe Hohlweg'
+p901
+tp902
+I4
+s(g95
+S'Simon J. A. Malham'
+p903
+tp904
+I1
+s(g7
+S'Piotr Sniady'
+p905
+tp906
+I5
+s(g152
+S'Duff Baker-Jarvis'
+p907
+tp908
+I1
+s(g25
+S'Adrien Boussicault'
+p909
+tp910
+I1
+s(g275
+S'Nathaniel Thiem'
+p911
+tp912
+I1
+s(g200
+S'Mitja Mastnak'
+p913
+tp914
+I1
+s(g145
+S'Muriel Livernet'
+p915
+tp916
+I1
+s(g123
+S'Nathaniel Thiem'
+p917
+tp918
+I1
+s(g86
+S'Peter Tingley'
+p919
+tp920
+I1
+s(g13
+S'Persi Diaconis'
+p921
+tp922
+I2
+s(g212
+S'Berenice Delcroix-Oger'
+p923
+tp924
+I1
+s(g19
+g105
+tp925
+I1
+s(g86
+S'Tobias Johnson'
+p926
+tp927
+I1
+s(g394
+S'Nathaniel Thiem'
+p928
+tp929
+I1
+s(g39
+S'Amy Pang'
+p930
+tp931
+I1
+s(g412
+S'Mike Zabrocki'
+p932
+tp933
+I1
+s(g200
+S'Huilan Li'
+p934
+tp935
+I1
+s(g95
+S'Claudia Malvenuto'
+p936
+tp937
+I2
+s(g110
+S'Samuel Hsiao'
+p938
+tp939
+I1
+s(g51
+S'Thomas Krajewski'
+p940
+tp941
+I1
+s(g28
+S'Duff Baker-Jarvis'
+p942
+tp943
+I1
+s(g13
+S'Eric Marberg'
+p944
+tp945
+I2
+s(g19
+g7
+tp946
+I2
+s(g275
+S'Kay Magaard'
+p947
+tp948
+I1
+s(g59
+S'Joshua Hallam'
+p949
+tp950
+I1
+s(g51
+S'Nguyen Hoang-Nghia'
+p951
+tp952
+I1
+s(g28
+S'Mike Zabrocki'
+p953
+tp954
+I13
+s(g412
+S'C. Ryan Vinroot'
+p955
+tp956
+I1
+s(g19
+g25
+tp957
+I1
+s(g275
+S'Kenneth Johnson'
+p958
+tp959
+I1
+s(g16
+S'Mike Zabrocki'
+p960
+tp961
+I5
+s(g16
+S'Carolina Benedetti'
+p962
+tp963
+I1
+s(g7
+S'A. Lascoux'
+p964
+tp965
+I1
+s(g137
+S'Philippe Biane'
+p966
+tp967
+I1
+s(g128
+S'Francois Bergeron'
+p968
+tp969
+I1
+s(g76
+S'Vidya Venkateswaran'
+p970
+tp971
+I1
+s(g86
+S'Luc Lapointe'
+p972
+tp973
+I1
+s(g16
+S'Franco V. Saliola'
+p974
+tp975
+I6
+s(g25
+S'Ladji Kane'
+p976
+tp977
+I1
+s(g198
+S'Pierpaolo Vivo'
+p978
+tp979
+I1
+s(g39
+S'Robert Guralnick'
+p980
+tp981
+I1
+s(g241
+S'Mark Sorrell'
+p982
+tp983
+I1
+s(g42
+S'Pawel Blasiak'
+p984
+tp985
+I3
+s(g33
+S'I. Martin Isaacs'
+p986
+tp987
+I1
+s(g19
+g209
+tp988
+I1
+s(g95
+S'Patras Frederic'
+p989
+tp990
+I1
+s(g59
+S'I. Martin Isaacs'
+p991
+tp992
+I1
+s(g25
+S'Vincel Hoang'
+p993
+tp994
+I1
+s(g394
+S'C. Ryan Vinroot'
+p995
+tp996
+I1
+s(g198
+S'Christophe Carre'
+p997
+tp998
+I2
+s(g73
+S'Rosa Orellana'
+p999
+tp1000
+I1
+s(g86
+S'Anatol N. Kirillov'
+p1001
+tp1002
+I1
+s(g73
+S'Carolina Benedetti'
+p1003
+tp1004
+I1
+s(g73
+S'Stephen Lewis'
+p1005
+tp1006
+I1
+s(g86
+S'Travis Scrimshaw'
+p1007
+tp1008
+I2
+s(g95
+S'Dominique Manchon'
+p1009
+tp1010
+I2
+s(g59
+S'Stephen Lewis'
+p1011
+tp1012
+I1
+s(g198
+S'Christophe Tollu'
+p1013
+tp1014
+I3
+s(g16
+S'Samuel Hsiao'
+p1015
+tp1016
+I1
+s(g10
+S'Amy Pang'
+p1017
+tp1018
+I1
+s(g143
+S'Ryan Kaliszewski'
+p1019
+tp1020
+I2
+s(g73
+S'Nantel Bergeron'
+p1021
+tp1022
+I4
+s(g86
+S'Steven Klee'
+p1023
+tp1024
+I2
+s(g59
+S'C. Ryan Vinroot'
+p1025
+tp1026
+I1
+s(g292
+S'Eric Marberg'
+p1027
+tp1028
+I1
+s(g33
+S'Persi Diaconis'
+p1029
+tp1030
+I1
+s(g110
+S'Nathaniel Thiem'
+p1031
+tp1032
+I1
+s(g241
+S'Amy M. Fu'
+p1033
+tp1034
+I5
+s(g59
+S'Jeffrey Doker'
+p1035
+tp1036
+I1
+s(g143
+S'Mike Zabrocki'
+p1037
+tp1038
+I1
+s(g19
+g212
+tp1039
+I8
+s(g10
+S'Persi Diaconis'
+p1040
+tp1041
+I1
+s(g22
+S'Ning Yan'
+p1042
+tp1043
+I1
+s(g143
+S'Thomas Lam'
+p1044
+tp1045
+I2
+s(g385
+S'Evgeny Sklyanin'
+p1046
+tp1047
+I4
+s(g200
+S'Stephen Lewis'
+p1048
+tp1049
+I1
+s(g105
+S'Vidya Venkateswaran'
+p1050
+tp1051
+I1
+s(g13
+S'Franco Saliola'
+p1052
+tp1053
+I4
+s(g174
+g246
+tp1054
+I1
+s(g212
+S'Adrien Boussicault'
+p1055
+tp1056
+I1
+s(g13
+S'Vidya Venkateswaran'
+p1057
+tp1058
+I2
+s(g56
+S'Sandrine Dasse-Hartaut'
+p1059
+tp1060
+I2
+s(g246
+S'Juanjo Rue'
+p1061
+tp1062
+I1
+s(g16
+S'Carlos Andre'
+p1063
+tp1064
+I1
+s(g28
+S'Gizem Karaali'
+p1065
+tp1066
+I1
+s(g152
+S'C. Ryan Vinroot'
+p1067
+tp1068
+I4
+s(g28
+S'Tung Le'
+p1069
+tp1070
+I1
+s(g73
+S'Tung Le'
+p1071
+tp1072
+I1
+s(g86
+S'Daisuke Sagaki'
+p1073
+tp1074
+I1
+s(g10
+S'I. Martin Isaacs'
+p1075
+tp1076
+I1
+s(g241
+S'Piotr Pragacz'
+p1077
+tp1078
+I2
+s(g16
+S'Nantel Bergeron'
+p1079
+tp1080
+I5
+s(g42
+S'Matthieu Deneufchatel'
+p1081
+tp1082
+I1
+s(g39
+S'Stephen Lewis'
+p1083
+tp1084
+I1
+s(g19
+g110
+tp1085
+I1
+s(g22
+S'Stephen Cameron'
+p1086
+tp1087
+I1
+s(g110
+S'Persi Diaconis'
+p1088
+tp1089
+I1
+s(g394
+S'Aaron Lauve'
+p1090
+tp1091
+I1
+s(g86
+S'Jason Bandlow'
+p1092
+tp1093
+I2
+s(g86
+S'Satoshi Naito'
+p1094
+tp1095
+I1
+s(g36
+S'Julie Glass'
+p1096
+tp1097
+I2
+s(g13
+S'Anders Hendrickson'
+p1098
+tp1099
+I2
+s(g33
+S'Tung Le'
+p1100
+tp1101
+I1
+s(g212
+S'Victor Reiner'
+p1102
+tp1103
+I1
+s(g13
+S'Gerard H. E. Duchamp'
+p1104
+tp1105
+I2
+s(g10
+S'Tung Le'
+p1106
+tp1107
+I1
+s(g292
+S'Huilan Li'
+p1108
+tp1109
+I1
+s(g198
+S'Samuele Giraudo'
+p1110
+tp1111
+I1
+s(g209
+S'Matthieu Josuat-Verges'
+p1112
+tp1113
+I1
+s(g13
+S'Frederic Menous'
+p1114
+tp1115
+I6
+s(g13
+S'Andrea Jedwab'
+p1116
+tp1117
+I2
+s(g59
+S'Vidya Venkateswaran'
+p1118
+tp1119
+I1
+s(g246
+S'Edward D. Kim'
+p1120
+tp1121
+I1
+s(g236
+S'Zhiyuan Yan'
+p1122
+tp1123
+I1
+s(g167
+S'Nathaniel Thiem'
+p1124
+tp1125
+I1
+s(g123
+S'Tung Le'
+p1126
+tp1127
+I1
+s(g73
+S'Muriel Livernet'
+p1128
+tp1129
+I1
+s(g51
+S'Karol A. Penson'
+p1130
+tp1131
+I1
+s(g241
+S'Wadim Zudilin'
+p1132
+tp1133
+I1
+s(g275
+S'Patricia Hersh'
+p1134
+tp1135
+I1
+s(g102
+S'Frederic Chapoton'
+p1136
+tp1137
+I1
+s(g62
+S'James Haglund'
+p1138
+tp1139
+I1
+s(g110
+S'C. Ryan Vinroot'
+p1140
+tp1141
+I1
+s(g212
+S'Lenny Tevlin'
+p1142
+tp1143
+I1
+s(S'Viviane Pons'
+p1144
+S'Jean-Christophe Novelli'
+p1145
+tp1146
+I2
+s(g16
+S'Stephen Lewis'
+p1147
+tp1148
+I1
+s(g76
+S'Ning Yan'
+p1149
+tp1150
+I1
+s(g73
+S'Amy Pang'
+p1151
+tp1152
+I1
+s(g76
+S'Amy Pang'
+p1153
+tp1154
+I1
+s(g110
+S'Nantel Bergeron'
+p1155
+tp1156
+I1
+s(g62
+S'Adrian Duane'
+p1157
+tp1158
+I1
+s(g353
+S'Christof Geiss'
+p1159
+tp1160
+I1
+s(g394
+S'Stephen Lewis'
+p1161
+tp1162
+I1
+s(g42
+S'Ladji Kane'
+p1163
+tp1164
+I1
+s(g39
+S'I. Martin Isaacs'
+p1165
+tp1166
+I1
+s(g10
+S'Kay Magaard'
+p1167
+tp1168
+I1
+s(g182
+S'Steven N. Karp'
+p1169
+tp1170
+I1
+s(g42
+S'Christophe Tollu'
+p1171
+tp1172
+I5
+s(g28
+S'Christophe Reutenauer'
+p1173
+tp1174
+I1
+s(g39
+S'K. Soundararajan'
+p1175
+tp1176
+I2
+s(g73
+S'Walter Ferrer'
+p1177
+tp1178
+I1
+s(g36
+S'Stephan Ramon Garcia'
+p1179
+tp1180
+I1
+s(g95
+S'Kurusch Ebrahimi-Fard'
+p1181
+tp1182
+I10
+s(g28
+S'Mercedes Rosas'
+p1183
+tp1184
+I2
+s(g143
+S'C. Ryan Vinroot'
+p1185
+tp1186
+I1
+s(g39
+S'Susan Holmes'
+p1187
+tp1188
+I3
+s(g28
+S'Andrea Jedwab'
+p1189
+tp1190
+I1
+s(g182
+S'Robin Chapman'
+p1191
+tp1192
+I1
+s(g86
+S'George E. Andrews'
+p1193
+tp1194
+I1
+s(g33
+S'Mike Zabrocki'
+p1195
+tp1196
+I1
+s(g200
+S'Matjaz Konvalinka'
+p1197
+tp1198
+I1
+s(g152
+S'Scott Andrews'
+p1199
+tp1200
+I1
+s(g198
+S'Ammar Aboud'
+p1201
+tp1202
+I2
+s(g209
+S'C. Ryan Vinroot'
+p1203
+tp1204
+I1
+s(g16
+S'Victor Reiner'
+p1205
+tp1206
+I1
+s(g241
+S'Victor Reiner'
+p1207
+tp1208
+I1
+s(g198
+S'Olivier Mallet'
+p1209
+tp1210
+I3
+s(g59
+S'Kenneth Johnson'
+p1211
+tp1212
+I1
+s(g48
+S'Mike Zabrocki'
+p1213
+tp1214
+I1
+s(g28
+S'Samuel Hsiao'
+p1215
+tp1216
+I1
+s(g19
+g42
+tp1217
+I1
+s(g137
+S'Thomas Prellberg'
+p1218
+tp1219
+I1
+s(g246
+S'Francisco Santos'
+p1220
+tp1221
+I3
+s(g62
+S'Thomas Lam'
+p1222
+tp1223
+I1
+s(g42
+S'Silvia Goodenough'
+p1224
+tp1225
+I2
+s(g200
+S'Thomas Lam'
+p1226
+tp1227
+I1
+s(g28
+S'Anders Hendrickson'
+p1228
+tp1229
+I1
+s(g48
+S'Fabrizio Caselli'
+p1230
+tp1231
+I1
+s(g241
+S'Tom Chappell'
+p1232
+tp1233
+I1
+s(g110
+S'Anders Hendrickson'
+p1234
+tp1235
+I1
+s(g246
+S'Michel Pocchiola'
+p1236
+tp1237
+I2
+s(g292
+S'I. Martin Isaacs'
+p1238
+tp1239
+I1
+s(g16
+S'Anders Hendrickson'
+p1240
+tp1241
+I1
+s(g19
+g48
+tp1242
+I1
+s(g51
+S'Matthieu Deneufchatel'
+p1243
+tp1244
+I2
+s(g19
+g200
+tp1245
+I1
+s(g22
+S'Mike Zabrocki'
+p1246
+tp1247
+I1
+s(g198
+S'J. -Y. Thibon'
+p1248
+tp1249
+I1
+s(g137
+S'Guo-Niu Han'
+p1250
+tp1251
+I1
+s(g7
+S'Eric Fusy'
+p1252
+tp1253
+I1
+s(g394
+S'Eric Marberg'
+p1254
+tp1255
+I1
+s(g59
+S'Zhi Chen'
+p1256
+tp1257
+I1
+s(g128
+S'Stephan Thomasse'
+p1258
+tp1259
+I1
+s(g137
+S'Martin Rubey'
+p1260
+tp1261
+I2
+s(g39
+S'Ning Yan'
+p1262
+tp1263
+I1
+s(g13
+S'Huilan Li'
+p1264
+tp1265
+I2
+s(g394
+S'Kenneth Johnson'
+p1266
+tp1267
+I1
+s(g292
+S'Kenneth Johnson'
+p1268
+tp1269
+I1
+s(g105
+S'Eric Marberg'
+p1270
+tp1271
+I1
+s(g33
+S'Kenneth Johnson'
+p1272
+tp1273
+I1
+s(g33
+S'Marcelo Aguiar'
+p1274
+tp1275
+I1
+s(g59
+S'Andrea Jedwab'
+p1276
+tp1277
+I1
+s(g212
+S'Jean Fromentin'
+p1278
+tp1279
+I1
+s(g200
+S'Amy Glen'
+p1280
+tp1281
+I1
+s(g39
+S'Robert C. Rhoades'
+p1282
+tp1283
+I3
+s(g36
+S'Adam Azzam'
+p1284
+tp1285
+I2
+s(g62
+S'Nathan Williams'
+p1286
+tp1287
+I1
+s(g83
+S'Jean Fromentin'
+p1288
+tp1289
+I1
+s(g39
+S'Steve Butler'
+p1290
+tp1291
+I1
+s(g25
+S'Gleb Koshevoy'
+p1292
+tp1293
+I1
+s(g33
+S'Stephen Lewis'
+p1294
+tp1295
+I1
+s(g182
+S'Sylvie Corteel'
+p1296
+tp1297
+I3
+s(g39
+S'Nicholas Eriksson'
+p1298
+tp1299
+I1
+s(g16
+S'Volkmar Welker'
+p1300
+tp1301
+I1
+s(g198
+S'Frederic Toumazet'
+p1302
+tp1303
+I1
+s(g143
+S'Patrick Shields'
+p1304
+tp1305
+I1
+s(g198
+S'Imad Eddine Bousbaa'
+p1306
+tp1307
+I1
+s(g246
+S'Aram Dermenjian'
+p1308
+tp1309
+I1
+s(g25
+S'Gerard Duchamp'
+p1310
+tp1311
+I1
+s(g292
+S'Stephen Lewis'
+p1312
+tp1313
+I1
+s(g36
+S'Stephen Lewis'
+p1314
+tp1315
+I1
+s(g42
+S'Nguyen Hoang Nghia'
+p1316
+tp1317
+I1
+s(g123
+S'Eric Marberg'
+p1318
+tp1319
+I1
+s(g353
+S'Jan Schroer'
+p1320
+tp1321
+I1
+s(g275
+S'Stephanie van Willigenburg'
+p1322
+tp1323
+I1
+s(g7
+S'I. P. Goulden'
+p1324
+tp1325
+I2
+s(g16
+S'A. B. Dieker'
+p1326
+tp1327
+I1
+s(g28
+S'Chris Berg'
+p1328
+tp1329
+I6
+s(g62
+S'Christophe Hohlweg'
+p1330
+tp1331
+I3
+s(g10
+S'Samuel Hsiao'
+p1332
+tp1333
+I1
+s(g56
+S'Philippe Duchon'
+p1334
+tp1335
+I3
+s(g39
+S'Allan Sly'
+p1336
+tp1337
+I2
+s(g76
+S'C. Ryan Vinroot'
+p1338
+tp1339
+I1
+s(g7
+S'Frederique Bassino'
+p1340
+tp1341
+I1
+s(g51
+S'Adrian Tanasa'
+p1342
+tp1343
+I1
+s(g246
+S'Cesar Ceballos'
+p1344
+tp1345
+I3
+s(g19
+g182
+tp1346
+I1
+s(g105
+S'Kay Magaard'
+p1347
+tp1348
+I1
+s(g13
+g385
+tp1349
+I2
+s(g86
+S'Mike Zabrocki'
+p1350
+tp1351
+I2
+s(g246
+S'Carsten Lange'
+p1352
+tp1353
+I1
+s(g167
+S'Gizem Karaali'
+p1354
+tp1355
+I1
+s(g137
+S'Lauren K. Williams'
+p1356
+tp1357
+I1
+s(g16
+S'I. Martin Isaacs'
+p1358
+tp1359
+I1
+s(g62
+S'R. C. Orellana'
+p1360
+tp1361
+I1
+s(g10
+S'Zhi Lu'
+p1362
+tp1363
+I2
+s(g275
+S'Huilan Li'
+p1364
+tp1365
+I1
+s(g73
+S'Eric Marberg'
+p1366
+tp1367
+I1
+s(g36
+S'Xinjing Zhu'
+p1368
+tp1369
+I2
+s(g42
+S'Vincel Hoang Ngoc Minh'
+p1370
+tp1371
+I5
+s(g73
+S'Aaron Lauve'
+p1372
+tp1373
+I3
+s(g86
+S'Erik Slivken'
+p1374
+tp1375
+I1
+s(g83
+S'Claudia Malvenuto'
+p1376
+tp1377
+I1
+s(g275
+S'J. Scott Provan'
+p1378
+tp1379
+I1
+s(g33
+S'Zhi Chen'
+p1380
+tp1381
+I1
+s(g105
+S'Jamshid Moori'
+p1382
+tp1383
+I1
+s(g33
+S'Carolina Benedetti'
+p1384
+tp1385
+I1
+s(g13
+S'Florent Hivert'
+p1386
+tp1387
+I16
+s(g25
+S'K. A. Penson'
+p1388
+tp1389
+I1
+s(g73
+S'I. Martin Isaacs'
+p1390
+tp1391
+I1
+s(g36
+S'Samuel K. Hsiao'
+p1392
+tp1393
+I1
+s(g353
+S'David Hernandez'
+p1394
+tp1395
+I1
+s(g16
+S'Eric Marberg'
+p1396
+tp1397
+I1
+s(g56
+S'Valentin Feray'
+p1398
+tp1399
+I2
+s(g39
+S'Kannan Soundararajan'
+p1400
+tp1401
+I1
+s(g14
+S'Ekaterina Vassilieva'
+p1402
+tp1403
+I1
+s(g19
+g376
+tp1404
+I1
+s(g56
+S'Adrien Boussicault'
+p1405
+tp1406
+I5
+s(g28
+S'Zhi Chen'
+p1407
+tp1408
+I2
+s(g39
+S'Kenneth Johnson'
+p1409
+tp1410
+I1
+s(g62
+S'Marni Mishna'
+p1411
+tp1412
+I1
+s(g110
+S'Zhi Chen'
+p1413
+tp1414
+I1
+s(g59
+S'John Machacek'
+p1415
+tp1416
+I1
+s(g200
+S'Vidya Venkateswaran'
+p1417
+tp1418
+I1
+s(g123
+S'Huilan Li'
+p1419
+tp1420
+I1
+s(g51
+S'Vincel Hoang'
+p1421
+tp1422
+I1
+s(g10
+S'Huilan Li'
+p1423
+tp1424
+I1
+s(g13
+S'Carolina Benedetti'
+p1425
+tp1426
+I2
+s(g16
+S'Zhi Chen'
+p1427
+tp1428
+I1
+s(g13
+S'Stephen Lewis'
+p1429
+tp1430
+I2
+s(g10
+S'Li Yu'
+p1431
+tp1432
+I1
+s(g28
+S'Juana Sanchez-Ortega'
+p1433
+tp1434
+I1
+s(g198
+S'Ali Chouria'
+p1435
+tp1436
+I4
+s(g62
+S'Stephanie van Willigenburg'
+p1437
+tp1438
+I1
+s(g73
+S'Kay Magaard'
+p1439
+tp1440
+I1
+s(g42
+S'H. Cheballah'
+p1441
+tp1442
+I1
+s(g182
+S'David Speyer'
+p1443
+tp1444
+I1
+s(g10
+S'Eric Marberg'
+p1445
+tp1446
+I1
+s(g275
+S'Vidya Venkateswaran'
+p1447
+tp1448
+I1
+s(g28
+S'Luis Serrano'
+p1449
+tp1450
+I4
+s(g73
+S'Franco Saliola'
+p1451
+tp1452
+I1
+s(g10
+S'Vidya Venkateswaran'
+p1453
+tp1454
+I1
+s(g25
+S'Jean-Yves Enjalbert'
+p1455
+tp1456
+I1
+s(g123
+S'Mike Zabrocki'
+p1457
+tp1458
+I1
+s(g48
+S'Graham White'
+p1459
+tp1460
+I1
+s(g13
+S'Samuel Hsiao'
+p1461
+tp1462
+I2
+s(g13
+S'Tung Le'
+p1463
+tp1464
+I2
+s(g39
+S'Sami Assaf'
+p1465
+tp1466
+I2
+s(g62
+S'Luis Serrano'
+p1467
+tp1468
+I4
+s(g200
+S'Thomas Hangelbroek'
+p1469
+tp1470
+I1
+s(g198
+S'Jean-Paul Bultel'
+p1471
+tp1472
+I2
+s(g33
+S'Samuel Hsiao'
+p1473
+tp1474
+I1
+s(g152
+S'Vidya Venkateswaran'
+p1475
+tp1476
+I2
+s(g10
+S'Hao Pan'
+p1477
+tp1478
+I1
+s(g39
+S'C. Ryan Vinroot'
+p1479
+tp1480
+I1
+s(g86
+S'Jennifer Morse'
+p1481
+tp1482
+I3
+s(g275
+S'Amy Pang'
+p1483
+tp1484
+I1
+s(g275
+S'Louis J. Billera'
+p1485
+tp1486
+I2
+s(g152
+S'Dennis Stanton'
+p1487
+tp1488
+I1
+s(g200
+S'Stefan Forcey'
+p1489
+tp1490
+I4
+s(g167
+S'Tung Le'
+p1491
+tp1492
+I1
+s(g39
+S'Nathaniel Thiem'
+p1493
+tp1494
+I2
+s(g145
+S'Hugh Thomas'
+p1495
+tp1496
+I1
+s(g10
+S'Aaron Lauve'
+p1497
+tp1498
+I1
+s(g105
+S'Ning Yan'
+p1499
+tp1500
+I1
+s(g36
+S'Eric Marberg'
+p1501
+tp1502
+I1
+s(g36
+S'Kay Magaard'
+p1503
+tp1504
+I1
+s(g28
+S'Jean-Philippe Labbe'
+p1505
+tp1506
+I1
+s(g62
+S'Rosa Orellana'
+p1507
+tp1508
+I2
+s(g209
+S'C. Y. Amy Pang'
+p1509
+tp1510
+I6
+s(g86
+S'Pedro V. Silva'
+p1511
+tp1512
+I1
+s(g412
+S'Eric Marberg'
+p1513
+tp1514
+I1
+s(g292
+S'Nathaniel Thiem'
+p1515
+tp1516
+I1
+s(g292
+S'Kay Magaard'
+p1517
+tp1518
+I1
+s(g13
+S'Matthieu Josuat-Verges'
+p1519
+tp1520
+I4
+s(g56
+S'Francois Bergeron'
+p1521
+tp1522
+I4
+s(g123
+S'Stephen Lewis'
+p1523
+tp1524
+I1
+s(g198
+S'Pascal Caron'
+p1525
+tp1526
+I1
+s(g95
+S'Raphael Chetrite'
+p1527
+tp1528
+I1
+s(g86
+S'Tom Denton'
+p1529
+tp1530
+I1
+s(g10
+S'Bo Chen'
+p1531
+tp1532
+I1
+s(g200
+S'Francois Bergeron'
+p1533
+tp1534
+I1
+s(g86
+S'Benjamin Steinberg'
+p1535
+tp1536
+I2
+s(g105
+S'Amy Pang'
+p1537
+tp1538
+I1
+s(g16
+S'Walter Whiteley'
+p1539
+tp1540
+I1
+s(g42
+S'Gleb Koshevoy'
+p1541
+tp1542
+I1
+s(g13
+S'Amy Pang'
+p1543
+tp1544
+I2
+s(g86
+S'Mark Shimozono'
+p1545
+tp1546
+I11
+s(g36
+S'Vidya Venkateswaran'
+p1547
+tp1548
+I1
+s(g10
+S'Stephen Lewis'
+p1549
+tp1550
+I1
+s(g51
+S'Christophe Tollu'
+p1551
+tp1552
+I3
+s(g22
+S'James Janopaul-Naylor'
+p1553
+tp1554
+I1
+s(g16
+S'Kay Magaard'
+p1555
+tp1556
+I1
+s(g16
+S'Nathaniel Thiem'
+p1557
+tp1558
+I1
+s(g19
+g292
+tp1559
+I1
+s(g59
+S'Ning Yan'
+p1560
+tp1561
+I1
+s(g212
+S'Tom Denton'
+p1562
+tp1563
+I1
+s(g39
+S'Arun Ram'
+p1564
+tp1565
+I2
+s(g110
+S'Amy Pang'
+p1566
+tp1567
+I1
+s(g19
+g412
+tp1568
+I1
+s(g198
+S'Marianne Flouret'
+p1569
+tp1570
+I1
+s(g13
+S'Marcelo Aguiar'
+p1571
+tp1572
+I4
+s(g167
+S'Vidya Venkateswaran'
+p1573
+tp1574
+I1
+s(g16
+S'Chris Berg'
+p1575
+tp1576
+I7
+s(g59
+S'Aaron Lauve'
+p1577
+tp1578
+I1
+s(g105
+S'C. Ryan Vinroot'
+p1579
+tp1580
+I1
+s(g394
+S'Ning Yan'
+p1581
+tp1582
+I1
+s(g394
+S'Mike Zabrocki'
+p1583
+tp1584
+I1
+s(g42
+S'Karol A. Penson'
+p1585
+tp1586
+I5
+s(g152
+S'Shishuo Fu'
+p1587
+tp1588
+I1
+s(g56
+S'Berenice Delcroix-Oger'
+p1589
+tp1590
+I1
+s(g412
+S'Nathaniel Thiem'
+p1591
+tp1592
+I1
+s(g241
+S'Francois Descouens'
+p1593
+tp1594
+I1
+s(g28
+S'Stephanie van Willigenburg'
+p1595
+tp1596
+I2
+s(g7
+S'Per Alexandersson'
+p1597
+tp1598
+I1
+s(g56
+S'Matteo Silimbani'
+p1599
+tp1600
+I1
+s(g128
+S'Benjamin Steinberg'
+p1601
+tp1602
+I2
+s(g200
+S'C. Ryan Vinroot'
+p1603
+tp1604
+I1
+s(g48
+S'Zachary Hamaker'
+p1605
+tp1606
+I3
+s(g167
+S'Kay Magaard'
+p1607
+tp1608
+I1
+s(g39
+S'Eric Marberg'
+p1609
+tp1610
+I1
+s(g39
+S'Huilan Li'
+p1611
+tp1612
+I1
+s(g62
+S'Mark Shimozono'
+p1613
+tp1614
+I3
+s(g28
+S'Kenneth Johnson'
+p1615
+tp1616
+I1
+s(g110
+S'Ning Yan'
+p1617
+tp1618
+I1
+s(g62
+S'Juana Sanchez-Ortega'
+p1619
+tp1620
+I1
+s(g174
+g145
+tp1621
+I1
+s(g275
+S'Eric Marberg'
+p1622
+tp1623
+I1
+s(g28
+S'Vidya Venkateswaran'
+p1624
+tp1625
+I1
+s(g19
+g36
+tp1626
+I1
+s(g292
+S'Vidya Venkateswaran'
+p1627
+tp1628
+I1
+s(g19
+g569
+tp1629
+I3
+s(g76
+S'Nathaniel Thiem'
+p1630
+tp1631
+I2
+s(g39
+S'Ron Graham'
+p1632
+tp1633
+I2
+s(g123
+S'C. Ryan Vinroot'
+p1634
+tp1635
+I1
+s(g19
+g62
+tp1636
+I1
+s(g39
+S'Mike Zabrocki'
+p1637
+tp1638
+I1
+s(g28
+S'Stefan Mykytiuk'
+p1639
+tp1640
+I2
+s(g412
+S'Vidya Venkateswaran'
+p1641
+tp1642
+I1
+s(g39
+S'Sumit Mukherjee'
+p1643
+tp1644
+I1
+s(g143
+S'Jennifer Morse'
+p1645
+tp1646
+I1
+s(g385
+S'Valentina Guizzi'
+p1647
+tp1648
+I1
+s(g59
+S'Kay Magaard'
+p1649
+tp1650
+I1
+s(g42
+S'Frederic Toumazet'
+p1651
+tp1652
+I1
+s(g73
+S'Huilan Li'
+p1653
+tp1654
+I1
+s(g73
+S'C. Ryan Vinroot'
+p1655
+tp1656
+I1
+s(g33
+S'Huilan Li'
+p1657
+tp1658
+I1
+s(g198
+S'Charles F. Dunkl'
+p1659
+tp1660
+I2
+s(g275
+S'C. Ryan Vinroot'
+p1661
+tp1662
+I1
+ssS'_neighbors'
+p1663
+(dp1664
+g1659
+c__builtin__
+set
+p1665
+((lp1666
+g198
+atp1667
+Rp1668
+sg172
+g1665
+((lp1669
+g62
+atp1670
+Rp1671
+sg563
+g1665
+((lp1672
+g56
+ag212
+atp1673
+Rp1674
+sg419
+g1665
+((lp1675
+g198
+atp1676
+Rp1677
+sg1527
+g1665
+((lp1678
+g95
+atp1679
+Rp1680
+sg8
+g1665
+((lp1681
+g7
+atp1682
+Rp1683
+sg102
+g1665
+((lp1684
+g1136
+ag174
+ag103
+atp1685
+Rp1686
+sg1187
+g1665
+((lp1687
+g39
+atp1688
+Rp1689
+sg253
+g1665
+((lp1690
+g182
+ag137
+atp1691
+Rp1692
+sg802
+g1665
+((lp1693
+g62
+atp1694
+Rp1695
+sg212
+g1665
+((lp1696
+g1142
+ag923
+ag13
+ag1278
+ag213
+ag86
+ag628
+ag56
+ag19
+ag1102
+ag1055
+ag839
+ag145
+ag1562
+ag286
+atp1697
+Rp1698
+sg683
+g1665
+((lp1699
+g59
+atp1700
+Rp1701
+sg1382
+g1665
+((lp1702
+g105
+atp1703
+Rp1704
+sg617
+g1665
+((lp1705
+g128
+atp1706
+Rp1707
+sg1179
+g1665
+((lp1708
+g36
+atp1709
+Rp1710
+sg570
+g1665
+((lp1711
+g569
+ag83
+atp1712
+Rp1713
+sg488
+g1665
+((lp1714
+g385
+atp1715
+Rp1716
+sg1599
+g1665
+((lp1717
+g56
+atp1718
+Rp1719
+sg198
+g1665
+((lp1720
+g1659
+ag215
+ag419
+ag879
+ag1013
+ag978
+ag812
+ag1525
+ag13
+ag997
+ag19
+ag42
+ag1209
+ag379
+ag1248
+ag704
+ag1306
+ag536
+ag851
+ag1302
+ag405
+ag1110
+ag345
+ag1201
+ag1471
+ag1569
+ag692
+ag425
+ag1435
+ag313
+atp1721
+Rp1722
+sg95
+g1665
+((lp1723
+g569
+ag83
+ag1527
+ag936
+ag13
+ag873
+ag1009
+ag903
+ag989
+ag119
+ag96
+ag1181
+ag470
+ag781
+atp1724
+Rp1725
+sg765
+g1665
+((lp1726
+g145
+atp1727
+Rp1728
+sg36
+g1665
+((lp1729
+g1503
+ag887
+ag775
+ag394
+ag170
+ag10
+ag745
+ag1314
+ag292
+ag13
+ag1368
+ag39
+ag1547
+ag110
+ag19
+ag28
+ag733
+ag176
+ag401
+ag79
+ag33
+ag187
+ag167
+ag59
+ag275
+ag1179
+ag37
+ag123
+ag1284
+ag1096
+ag73
+ag877
+ag16
+ag1501
+ag65
+ag1392
+atp1730
+Rp1731
+sg1340
+g1665
+((lp1732
+g7
+atp1733
+Rp1734
+sg108
+g1665
+((lp1735
+g22
+atp1736
+Rp1737
+sg39
+g1665
+((lp1738
+g861
+ag1564
+ag855
+ag1643
+ag1400
+ag1637
+ag540
+ag1298
+ag492
+ag1465
+ag1632
+ag717
+ag10
+ag751
+ag980
+ag478
+ag1083
+ag161
+ag13
+ag749
+ag311
+ag1187
+ag19
+ag28
+ag1611
+ag930
+ag1609
+ag33
+ag141
+ag40
+ag1262
+ag1165
+ag59
+ag163
+ag403
+ag1336
+ag640
+ag67
+ag623
+ag1493
+ag399
+ag1409
+ag1282
+ag885
+ag1290
+ag217
+ag73
+ag1479
+ag1175
+ag553
+ag16
+ag490
+ag110
+atp1739
+Rp1740
+sg376
+g1665
+((lp1741
+g412
+ag533
+ag377
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag110
+ag19
+ag28
+ag275
+ag209
+ag48
+ag33
+ag167
+ag59
+ag143
+ag152
+ag123
+ag73
+ag388
+ag16
+ag200
+atp1742
+Rp1743
+sg997
+g1665
+((lp1744
+g198
+atp1745
+Rp1746
+sg781
+g1665
+((lp1747
+g95
+atp1748
+Rp1749
+sg1193
+g1665
+((lp1750
+g86
+atp1751
+Rp1752
+sg1411
+g1665
+((lp1753
+g62
+atp1754
+Rp1755
+sg386
+g1665
+((lp1756
+g385
+atp1757
+Rp1758
+sg19
+g1665
+((lp1759
+g182
+ag412
+ag22
+ag7
+ag394
+ag212
+ag25
+ag105
+ag198
+ag36
+ag76
+ag292
+ag20
+ag39
+ag376
+ag110
+ag1144
+ag28
+ag143
+ag209
+ag42
+ag33
+ag569
+ag167
+ag59
+ag275
+ag241
+ag51
+ag56
+ag128
+ag155
+ag205
+ag137
+ag152
+ag123
+ag10
+ag62
+ag86
+ag73
+ag236
+ag16
+ag48
+ag200
+atp1760
+Rp1761
+sg28
+g1665
+((lp1762
+g455
+ag29
+ag1624
+ag1189
+ag953
+ag1449
+ag1228
+ag91
+ag1069
+ag1407
+ag271
+ag1065
+ag1595
+ag881
+ag849
+ag13
+ag1639
+ag178
+ag110
+ag19
+ag747
+ag1215
+ag769
+ag942
+ag897
+ag33
+ag1173
+ag901
+ag626
+ag203
+ag59
+ag437
+ag1328
+ag500
+ag56
+ag1505
+ag351
+ag814
+ag131
+ag1615
+ag630
+ag1433
+ag212
+ag189
+ag73
+ag1183
+ag753
+ag16
+ag185
+ag893
+atp1763
+Rp1764
+sg739
+g1665
+((lp1765
+g51
+ag25
+atp1766
+Rp1767
+sg567
+g1665
+((lp1768
+g246
+atp1769
+Rp1770
+sg1059
+g1665
+((lp1771
+g56
+atp1772
+Rp1773
+sg410
+g1665
+((lp1774
+g7
+atp1775
+Rp1776
+sg1553
+g1665
+((lp1777
+g22
+atp1778
+Rp1779
+sg741
+g1665
+((lp1780
+g56
+atp1781
+Rp1782
+sg1258
+g1665
+((lp1783
+g128
+atp1784
+Rp1785
+sg863
+g1665
+((lp1786
+g42
+atp1787
+Rp1788
+sg569
+g1665
+((lp1789
+g13
+ag570
+ag708
+ag19
+ag889
+atp1790
+Rp1791
+sg482
+g1665
+((lp1792
+g51
+atp1793
+Rp1794
+sg869
+g1665
+((lp1795
+g86
+atp1796
+Rp1797
+sg1199
+g1665
+((lp1798
+g152
+atp1799
+Rp1800
+sg1639
+g1665
+((lp1801
+g28
+atp1802
+Rp1803
+sg96
+g1665
+((lp1804
+g95
+atp1805
+Rp1806
+sg763
+g1665
+((lp1807
+g86
+atp1808
+Rp1809
+sg241
+g1665
+((lp1810
+g1132
+ag688
+ag1232
+ag867
+ag700
+ag895
+ag13
+ag7
+ag242
+ag982
+ag1593
+ag1033
+ag19
+ag1207
+ag834
+ag356
+ag1077
+atp1811
+Rp1812
+sg1248
+g1665
+((lp1813
+g198
+atp1814
+Rp1815
+sg247
+g1665
+((lp1816
+g246
+atp1817
+Rp1818
+sg1443
+g1665
+((lp1819
+g182
+atp1820
+Rp1821
+sg677
+g1665
+((lp1822
+g200
+atp1823
+Rp1824
+sg123
+g1665
+((lp1825
+g39
+ag1634
+ag1457
+ag394
+ag1126
+ag10
+ag225
+ag1523
+ag292
+ag13
+ag457
+ag124
+ag110
+ag19
+ag28
+ag275
+ag712
+ag33
+ag167
+ag59
+ag1419
+ag917
+ag73
+ag315
+ag16
+ag1318
+ag284
+atp1826
+Rp1827
+sg974
+g1665
+((lp1828
+g16
+ag200
+atp1829
+Rp1830
+sg798
+g1665
+((lp1831
+g246
+atp1832
+Rp1833
+sg301
+g1665
+((lp1834
+g73
+ag275
+atp1835
+Rp1836
+sg1122
+g1665
+((lp1837
+g236
+atp1838
+Rp1839
+sg205
+g1665
+((lp1840
+g198
+ag19
+ag42
+ag25
+atp1841
+Rp1842
+sg141
+g1665
+((lp1843
+g39
+atp1844
+Rp1845
+sg152
+g1665
+((lp1846
+g412
+ag1587
+ag1067
+ag671
+ag394
+ag105
+ag10
+ag36
+ag1199
+ag76
+ag292
+ag13
+ag39
+ag1475
+ag110
+ag19
+ag28
+ag275
+ag209
+ag907
+ag48
+ag33
+ag153
+ag167
+ag59
+ag143
+ag729
+ag1487
+ag234
+ag123
+ag73
+ag453
+ag16
+ag200
+atp1847
+Rp1848
+sg354
+g1665
+((lp1849
+g353
+atp1850
+Rp1851
+sg337
+g1665
+((lp1852
+g198
+ag145
+atp1853
+Rp1854
+sg1201
+g1665
+((lp1855
+g198
+atp1856
+Rp1857
+sg1471
+g1665
+((lp1858
+g198
+atp1859
+Rp1860
+sg1569
+g1665
+((lp1861
+g198
+atp1862
+Rp1863
+sg1278
+g1665
+((lp1864
+g212
+ag83
+atp1865
+Rp1866
+sg885
+g1665
+((lp1867
+g39
+atp1868
+Rp1869
+sg1376
+g1665
+((lp1870
+g95
+ag83
+atp1871
+Rp1872
+sg347
+g1665
+((lp1873
+g86
+atp1874
+Rp1875
+sg401
+g1665
+((lp1876
+g36
+atp1877
+Rp1878
+sg292
+g1665
+((lp1879
+g1517
+ag329
+ag592
+ag415
+ag510
+ag10
+ag613
+ag1312
+ag13
+ag39
+ag1627
+ag110
+ag19
+ag28
+ag293
+ag773
+ag33
+ag1238
+ag59
+ag1108
+ag1515
+ag1268
+ag73
+ag335
+ag16
+ag1027
+ag504
+atp1880
+Rp1881
+sg518
+g1665
+((lp1882
+g73
+atp1883
+Rp1884
+sg1157
+g1665
+((lp1885
+g62
+atp1886
+Rp1887
+sg1298
+g1665
+((lp1888
+g39
+atp1889
+Rp1890
+sg1209
+g1665
+((lp1891
+g198
+atp1892
+Rp1893
+sg1521
+g1665
+((lp1894
+g56
+ag128
+ag28
+ag200
+atp1895
+Rp1896
+sg200
+g1665
+((lp1897
+g201
+ag1603
+ag1417
+ag859
+ag1197
+ag394
+ag572
+ag73
+ag1489
+ag10
+ag36
+ag1048
+ag292
+ag13
+ag39
+ag1226
+ag110
+ag19
+ag28
+ag934
+ag1469
+ag512
+ag913
+ag669
+ag33
+ag167
+ag59
+ag275
+ag16
+ag433
+ag590
+ag207
+ag123
+ag1280
+ag603
+ag677
+ag1533
+atp1898
+Rp1899
+sg783
+g1665
+((lp1900
+g73
+ag275
+ag36
+atp1901
+Rp1902
+sg1336
+g1665
+((lp1903
+g39
+atp1904
+Rp1905
+sg1564
+g1665
+((lp1906
+g39
+ag209
+atp1907
+Rp1908
+sg686
+g1665
+((lp1909
+g7
+atp1910
+Rp1911
+sg855
+g1665
+((lp1912
+g39
+atp1913
+Rp1914
+sg1441
+g1665
+((lp1915
+g42
+atp1916
+Rp1917
+sg31
+g1665
+((lp1918
+g16
+atp1919
+Rp1920
+sg1643
+g1665
+((lp1921
+g39
+atp1922
+Rp1923
+sg383
+g1665
+((lp1924
+g145
+atp1925
+Rp1926
+sg40
+g1665
+((lp1927
+g39
+ag22
+atp1928
+Rp1929
+sg692
+g1665
+((lp1930
+g198
+ag25
+atp1931
+Rp1932
+sg841
+g1665
+((lp1933
+g56
+atp1934
+Rp1935
+sg1360
+g1665
+((lp1936
+g62
+atp1937
+Rp1938
+sg83
+g1665
+((lp1939
+g126
+ag1376
+ag13
+ag1288
+ag582
+ag84
+ag121
+atp1940
+Rp1941
+sg1431
+g1665
+((lp1942
+g10
+atp1943
+Rp1944
+sg353
+g1665
+((lp1945
+g354
+ag1159
+ag13
+ag837
+ag1320
+ag1394
+atp1946
+Rp1947
+sg394
+g1665
+((lp1948
+g788
+ag995
+ag1583
+ag474
+ag10
+ag796
+ag1161
+ag292
+ag13
+ag39
+ag395
+ag110
+ag19
+ag28
+ag275
+ag520
+ag33
+ag167
+ag59
+ag785
+ag928
+ag1266
+ag73
+ag1581
+ag16
+ag1254
+ag1090
+atp1949
+Rp1950
+sg638
+g1665
+((lp1951
+g56
+ag7
+atp1952
+Rp1953
+sg978
+g1665
+((lp1954
+g198
+atp1955
+Rp1956
+sg63
+g1665
+((lp1957
+g62
+atp1958
+Rp1959
+sg1545
+g1665
+((lp1960
+g62
+ag86
+atp1961
+Rp1962
+sg1243
+g1665
+((lp1963
+g51
+ag198
+ag42
+atp1964
+Rp1965
+sg940
+g1665
+((lp1966
+g51
+atp1967
+Rp1968
+sg333
+g1665
+((lp1969
+g86
+atp1970
+Rp1971
+sg644
+g1665
+((lp1972
+g59
+atp1973
+Rp1974
+sg949
+g1665
+((lp1975
+g59
+atp1976
+Rp1977
+sg1046
+g1665
+((lp1978
+g385
+atp1979
+Rp1980
+sg1595
+g1665
+((lp1981
+g275
+ag62
+ag28
+atp1982
+Rp1983
+sg623
+g1665
+((lp1984
+g39
+atp1985
+Rp1986
+sg76
+g1665
+((lp1987
+g551
+ag1338
+ag219
+ag394
+ag105
+ag10
+ag36
+ag292
+ag13
+ag39
+ag970
+ag110
+ag19
+ag28
+ag275
+ag1153
+ag891
+ag33
+ag167
+ag59
+ag77
+ag1630
+ag123
+ag73
+ag1149
+ag16
+ag200
+atp1988
+Rp1989
+sg800
+g1665
+((lp1990
+g16
+ag200
+atp1991
+Rp1992
+sg594
+g1665
+((lp1993
+g7
+atp1994
+Rp1995
+sg193
+g1665
+((lp1996
+g51
+ag25
+atp1997
+Rp1998
+sg926
+g1665
+((lp1999
+g86
+atp2000
+Rp2001
+sg733
+g1665
+((lp2002
+g36
+atp2003
+Rp2004
+sg1362
+g1665
+((lp2005
+g10
+atp2006
+Rp2007
+sg903
+g1665
+((lp2008
+g95
+atp2009
+Rp2010
+sg694
+g1665
+((lp2011
+g246
+atp2012
+Rp2013
+sg1033
+g1665
+((lp2014
+g241
+atp2015
+Rp2016
+sg951
+g1665
+((lp2017
+g51
+atp2018
+Rp2019
+sg42
+g1665
+((lp2020
+g1585
+ag46
+ag1316
+ag309
+ag1441
+ag1081
+ag1541
+ag561
+ag1163
+ag679
+ag525
+ag19
+ag984
+ag1171
+ag863
+ag244
+ag43
+ag1651
+ag1224
+ag1370
+atp2021
+Rp2022
+sg565
+g1665
+((lp2023
+g56
+atp2024
+Rp2025
+sg1218
+g1665
+((lp2026
+g137
+atp2027
+Rp2028
+sg873
+g1665
+((lp2029
+g95
+atp2030
+Rp2031
+sg48
+g1665
+((lp2032
+g412
+ag257
+ag1459
+ag1213
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag435
+ag110
+ag19
+ag28
+ag275
+ag466
+ag1230
+ag33
+ag578
+ag167
+ag59
+ag143
+ag588
+ag123
+ag1605
+ag73
+ag49
+ag16
+ag200
+atp2033
+Rp2034
+sg33
+g1665
+((lp2035
+g81
+ag696
+ag212
+ag34
+ag1100
+ag1380
+ag89
+ag1294
+ag360
+ag13
+ag1029
+ag150
+ag580
+ag19
+ag191
+ag1473
+ag371
+ag986
+ag1384
+ag1657
+ag660
+ag1272
+ag1195
+ag1274
+ag767
+ag135
+ag365
+ag650
+atp2036
+Rp2037
+sg636
+g1665
+((lp2038
+g10
+atp2039
+Rp2040
+sg1173
+g1665
+((lp2041
+g62
+ag28
+atp2042
+Rp2043
+sg451
+g1665
+((lp2044
+g7
+ag246
+atp2045
+Rp2046
+sg49
+g1665
+((lp2047
+g48
+atp2048
+Rp2049
+sg700
+g1665
+((lp2050
+g241
+atp2051
+Rp2052
+sg10
+g1665
+((lp2053
+g1167
+ag69
+ag317
+ag1431
+ag223
+ag319
+ag1106
+ag73
+ag1423
+ag11
+ag1549
+ag13
+ag1040
+ag1453
+ag1362
+ag110
+ag19
+ag28
+ag636
+ag1017
+ag1445
+ag33
+ag1075
+ag59
+ag1332
+ag557
+ag251
+ag305
+ag100
+ag16
+ag1531
+ag1497
+ag1477
+atp2054
+Rp2055
+sg385
+g1665
+((lp2056
+g1046
+ag13
+ag1647
+ag386
+ag353
+ag488
+atp2057
+Rp2058
+sg275
+g1665
+((lp2059
+g1485
+ag1661
+ag816
+ag276
+ag282
+ag10
+ag1322
+ag843
+ag681
+ag292
+ag13
+ag39
+ag1447
+ag110
+ag19
+ag28
+ag1483
+ag494
+ag33
+ag611
+ag59
+ag1364
+ag1378
+ag958
+ag911
+ag1134
+ag947
+ag73
+ag576
+ag16
+ag1622
+ag278
+ag845
+atp2060
+Rp2061
+sg399
+g1665
+((lp2062
+g39
+atp2063
+Rp2064
+sg1378
+g1665
+((lp2065
+g275
+atp2066
+Rp2067
+sg1477
+g1665
+((lp2068
+g10
+atp2069
+Rp2070
+sg599
+g1665
+((lp2071
+g86
+atp2072
+Rp2073
+sg525
+g1665
+((lp2074
+g198
+ag42
+atp2075
+Rp2076
+sg605
+g1665
+((lp2077
+g128
+atp2078
+Rp2079
+sg14
+g1665
+((lp2080
+g13
+ag1402
+atp2081
+Rp2082
+sg1169
+g1665
+((lp2083
+g182
+atp2084
+Rp2085
+sg93
+g1665
+((lp2086
+g73
+ag28
+atp2087
+Rp2088
+sg1342
+g1665
+((lp2089
+g51
+atp2090
+Rp2091
+sg980
+g1665
+((lp2092
+g39
+atp2093
+Rp2094
+sg1236
+g1665
+((lp2095
+g246
+atp2096
+Rp2097
+sg145
+g1665
+((lp2098
+g1495
+ag337
+ag765
+ag915
+ag13
+ag460
+ag331
+ag383
+ag725
+ag146
+ag102
+ag574
+ag19
+ag429
+ag445
+ag174
+atp2099
+Rp2100
+sg804
+g1665
+((lp2101
+g73
+atp2102
+Rp2103
+sg905
+g1665
+((lp2104
+g7
+atp2105
+Rp2106
+sg265
+g1665
+((lp2107
+g275
+ag86
+atp2108
+Rp2109
+sg403
+g1665
+((lp2110
+g39
+atp2111
+Rp2112
+sg999
+g1665
+((lp2113
+g73
+ag62
+atp2114
+Rp2115
+sg460
+g1665
+((lp2116
+g145
+atp2117
+Rp2118
+sg331
+g1665
+((lp2119
+g145
+atp2120
+Rp2121
+sg1096
+g1665
+((lp2122
+g36
+atp2123
+Rp2124
+sg1092
+g1665
+((lp2125
+g62
+ag128
+ag86
+atp2126
+Rp2127
+sg1019
+g1665
+((lp2128
+g143
+atp2129
+Rp2130
+sg79
+g1665
+((lp2131
+g36
+atp2132
+Rp2133
+sg73
+g1665
+((lp2134
+g1439
+ag1655
+ag759
+ag662
+ag1071
+ag299
+ag468
+ag853
+ag1005
+ag13
+ag506
+ag619
+ag180
+ag19
+ag301
+ag1653
+ag1128
+ag1021
+ag33
+ag74
+ag1390
+ag1003
+ag230
+ag93
+ag1151
+ag390
+ag804
+ag259
+ag999
+ag646
+ag518
+ag1177
+ag667
+ag1451
+ag1366
+ag1372
+ag783
+atp2135
+Rp2136
+sg1007
+g1665
+((lp2137
+g86
+atp2138
+Rp2139
+sg652
+g1665
+((lp2140
+g246
+atp2141
+Rp2142
+sg425
+g1665
+((lp2143
+g198
+atp2144
+Rp2145
+sg16
+g1665
+((lp2146
+g1555
+ag297
+ag31
+ag17
+ag960
+ag820
+ag761
+ag423
+ag1427
+ag794
+ag139
+ag1147
+ag325
+ag13
+ag609
+ag737
+ag1063
+ag19
+ag1079
+ag800
+ag341
+ag1396
+ag33
+ag1358
+ag962
+ag1015
+ag1575
+ag1205
+ag1539
+ag1557
+ag1300
+ag54
+ag73
+ag417
+ag1326
+ag261
+ag1240
+ag974
+atp2147
+Rp2148
+sg1326
+g1665
+((lp2149
+g16
+atp2150
+Rp2151
+sg1589
+g1665
+((lp2152
+g56
+ag212
+atp2153
+Rp2154
+sg972
+g1665
+((lp2155
+g62
+ag86
+atp2156
+Rp2157
+sg215
+g1665
+((lp2158
+g198
+atp2159
+Rp2160
+sg1485
+g1665
+((lp2161
+g275
+atp2162
+Rp2163
+sg1587
+g1665
+((lp2164
+g152
+atp2165
+Rp2166
+sg1394
+g1665
+((lp2167
+g353
+atp2168
+Rp2169
+sg679
+g1665
+((lp2170
+g42
+ag25
+atp2171
+Rp2172
+sg1529
+g1665
+((lp2173
+g212
+ag128
+ag86
+atp2174
+Rp2175
+sg157
+g1665
+((lp2176
+g86
+ag241
+atp2177
+Rp2178
+sg1647
+g1665
+((lp2179
+g385
+atp2180
+Rp2181
+sg217
+g1665
+((lp2182
+g39
+atp2183
+Rp2184
+sg1304
+g1665
+((lp2185
+g143
+atp2186
+Rp2187
+sg1400
+g1665
+((lp2188
+g39
+atp2189
+Rp2190
+sg574
+g1665
+((lp2191
+g145
+atp2192
+Rp2193
+sg1086
+g1665
+((lp2194
+g22
+atp2195
+Rp2196
+sg1531
+g1665
+((lp2197
+g10
+atp2198
+Rp2199
+sg1197
+g1665
+((lp2200
+g200
+atp2201
+Rp2202
+sg1535
+g1665
+((lp2203
+g16
+ag128
+ag86
+atp2204
+Rp2205
+sg546
+g1665
+((lp2206
+g51
+atp2207
+Rp2208
+sg91
+g1665
+((lp2209
+g39
+ag28
+atp2210
+Rp2211
+sg105
+g1665
+((lp2212
+g1347
+ag1579
+ag1382
+ag648
+ag394
+ag10
+ag36
+ag339
+ag292
+ag13
+ag39
+ag1050
+ag110
+ag19
+ag28
+ag275
+ag1537
+ag1270
+ag33
+ag167
+ag59
+ag106
+ag531
+ag123
+ag73
+ag1499
+ag16
+ag200
+atp2213
+Rp2214
+sg913
+g1665
+((lp2215
+g200
+atp2216
+Rp2217
+sg1489
+g1665
+((lp2218
+g200
+atp2219
+Rp2220
+sg468
+g1665
+((lp2221
+g73
+ag28
+ag200
+atp2222
+Rp2223
+sg964
+g1665
+((lp2224
+g7
+atp2225
+Rp2226
+sg1495
+g1665
+((lp2227
+g16
+ag62
+ag145
+ag28
+atp2228
+Rp2229
+sg20
+g1665
+((lp2230
+g777
+ag196
+ag439
+ag408
+ag1386
+ag353
+ag1116
+ag1463
+ag480
+ag95
+ag449
+ag1429
+ag1571
+ag921
+ag1057
+ag586
+ag19
+ag597
+ag1264
+ag1543
+ag944
+ag727
+ag1114
+ag83
+ag148
+ag1425
+ag385
+ag1461
+ag832
+ag4
+ag1104
+ag810
+ag249
+ag527
+ag1519
+ag508
+ag658
+ag232
+ag363
+ag1098
+ag269
+ag1052
+ag14
+ag116
+atp2231
+Rp2232
+sg1252
+g1665
+((lp2233
+g7
+atp2234
+Rp2235
+sg879
+g1665
+((lp2236
+g198
+atp2237
+Rp2238
+sg98
+g1665
+((lp2239
+g143
+ag62
+ag200
+ag86
+ag28
+atp2240
+Rp2241
+sg665
+g1665
+((lp2242
+g128
+ag86
+atp2243
+Rp2244
+sg110
+g1665
+((lp2245
+g343
+ag1140
+ag462
+ag111
+ag523
+ag1413
+ag133
+ag290
+ag1234
+ag13
+ag1088
+ag397
+ag19
+ag1155
+ag938
+ag1566
+ag33
+ag828
+ag447
+ag721
+ag1031
+ag654
+ag73
+ag1617
+ag16
+ag263
+ag273
+atp2246
+Rp2247
+sg1505
+g1665
+((lp2248
+g28
+atp2249
+Rp2250
+sg915
+g1665
+((lp2251
+g73
+ag145
+ag28
+atp2252
+Rp2253
+sg1541
+g1665
+((lp2254
+g42
+ag25
+atp2255
+Rp2256
+sg731
+g1665
+((lp2257
+g7
+atp2258
+Rp2259
+sg174
+g1665
+((lp2260
+g102
+ag5
+ag145
+ag1145
+ag246
+atp2261
+Rp2262
+sg1220
+g1665
+((lp2263
+g246
+atp2264
+Rp2265
+sg1035
+g1665
+((lp2266
+g59
+atp2267
+Rp2268
+sg1230
+g1665
+((lp2269
+g48
+atp2270
+Rp2271
+sg1130
+g1665
+((lp2272
+g51
+ag198
+ag42
+ag25
+atp2273
+Rp2274
+sg688
+g1665
+((lp2275
+g241
+atp2276
+Rp2277
+sg23
+g1665
+((lp2278
+g22
+atp2279
+Rp2280
+sg867
+g1665
+((lp2281
+g241
+atp2282
+Rp2283
+sg1094
+g1665
+((lp2284
+g86
+atp2285
+Rp2286
+sg167
+g1665
+((lp2287
+g1607
+ag221
+ag743
+ag875
+ag1491
+ag10
+ag1354
+ag431
+ag292
+ag13
+ag39
+ag1573
+ag110
+ag19
+ag28
+ag275
+ag168
+ag33
+ag59
+ag857
+ag1124
+ag757
+ag73
+ag367
+ag16
+ag358
+ag349
+atp2288
+Rp2289
+sg1593
+g1665
+((lp2290
+g241
+atp2291
+Rp2292
+sg369
+g1665
+((lp2293
+g62
+ag145
+ag28
+ag246
+atp2294
+Rp2295
+sg561
+g1665
+((lp2296
+g42
+atp2297
+Rp2298
+sg1300
+g1665
+((lp2299
+g16
+atp2300
+Rp2301
+sg582
+g1665
+((lp2302
+g95
+ag83
+atp2303
+Rp2304
+sg51
+g1665
+((lp2305
+g392
+ag1130
+ag482
+ag13
+ag193
+ag52
+ag1342
+ag818
+ag1421
+ag212
+ag951
+ag19
+ag847
+ag739
+ag1551
+ag546
+ag1243
+ag940
+ag502
+atp2306
+Rp2307
+sg1469
+g1665
+((lp2308
+g200
+atp2309
+Rp2310
+sg429
+g1665
+((lp2311
+g145
+atp2312
+Rp2313
+sg1374
+g1665
+((lp2314
+g86
+atp2315
+Rp2316
+sg851
+g1665
+((lp2317
+g198
+atp2318
+Rp2319
+sg808
+g1665
+((lp2320
+g16
+ag152
+ag7
+ag212
+ag241
+atp2321
+Rp2322
+sg159
+g1665
+((lp2323
+g86
+atp2324
+Rp2325
+sg1539
+g1665
+((lp2326
+g16
+atp2327
+Rp2328
+sg1073
+g1665
+((lp2329
+g86
+atp2330
+Rp2331
+sg87
+g1665
+((lp2332
+g86
+atp2333
+Rp2334
+sg390
+g1665
+((lp2335
+g73
+atp2336
+Rp2337
+sg895
+g1665
+((lp2338
+g241
+atp2339
+Rp2340
+sg392
+g1665
+((lp2341
+g51
+ag42
+atp2342
+Rp2343
+sg883
+g1665
+((lp2344
+g246
+atp2345
+Rp2346
+sg1308
+g1665
+((lp2347
+g246
+atp2348
+Rp2349
+sg1605
+g1665
+((lp2350
+g48
+atp2351
+Rp2352
+sg309
+g1665
+((lp2353
+g42
+ag25
+atp2354
+Rp2355
+sg443
+g1665
+((lp2356
+g39
+ag209
+ag137
+atp2357
+Rp2358
+sg1132
+g1665
+((lp2359
+g241
+atp2360
+Rp2361
+sg553
+g1665
+((lp2362
+g39
+atp2363
+Rp2364
+sg1368
+g1665
+((lp2365
+g36
+atp2366
+Rp2367
+sg1433
+g1665
+((lp2368
+g62
+ag28
+atp2369
+Rp2370
+sg1320
+g1665
+((lp2371
+g353
+atp2372
+Rp2373
+sg1352
+g1665
+((lp2374
+g28
+ag246
+atp2375
+Rp2376
+sg847
+g1665
+((lp2377
+g51
+ag42
+atp2378
+Rp2379
+sg1120
+g1665
+((lp2380
+g246
+atp2381
+Rp2382
+sg441
+g1665
+((lp2383
+g236
+atp2384
+Rp2385
+sg540
+g1665
+((lp2386
+g39
+atp2387
+Rp2388
+sg1181
+g1665
+((lp2389
+g95
+atp2390
+Rp2391
+sg236
+g1665
+((lp2392
+g412
+ag22
+ag1122
+ag237
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag376
+ag110
+ag19
+ag28
+ag275
+ag209
+ag48
+ag33
+ag167
+ag59
+ag143
+ag441
+ag152
+ag123
+ag73
+ag16
+ag200
+atp2393
+Rp2394
+sg52
+g1665
+((lp2395
+g51
+ag25
+atp2396
+Rp2397
+sg500
+g1665
+((lp2398
+g62
+ag28
+atp2399
+Rp2400
+sg119
+g1665
+((lp2401
+g95
+atp2402
+Rp2403
+sg1575
+g1665
+((lp2404
+g16
+ag62
+ag28
+atp2405
+Rp2406
+sg824
+g1665
+((lp2407
+g128
+atp2408
+Rp2409
+sg966
+g1665
+((lp2410
+g137
+atp2411
+Rp2412
+sg1001
+g1665
+((lp2413
+g86
+atp2414
+Rp2415
+sg307
+g1665
+((lp2416
+g137
+atp2417
+Rp2418
+sg1191
+g1665
+((lp2419
+g182
+atp2420
+Rp2421
+sg182
+g1665
+((lp2422
+g1443
+ag13
+ag1296
+ag19
+ag1169
+ag183
+ag137
+ag1191
+atp2423
+Rp2424
+sg1481
+g1665
+((lp2425
+g143
+ag62
+ag86
+atp2426
+Rp2427
+sg1224
+g1665
+((lp2428
+g42
+atp2429
+Rp2430
+sg22
+g1665
+((lp2431
+g412
+ag23
+ag1246
+ag1086
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag108
+ag39
+ag376
+ag110
+ag19
+ag28
+ag275
+ag209
+ag48
+ag33
+ag472
+ag167
+ag59
+ag143
+ag1553
+ag152
+ag123
+ag73
+ag1042
+ag16
+ag200
+atp2432
+Rp2433
+sg989
+g1665
+((lp2434
+g95
+atp2435
+Rp2436
+sg62
+g1665
+((lp2437
+g172
+ag412
+ag22
+ag165
+ag621
+ag830
+ag802
+ag321
+ag1467
+ag394
+ag63
+ag1613
+ag105
+ag10
+ag1286
+ag36
+ag76
+ag292
+ag13
+ag39
+ag376
+ag110
+ag1411
+ag19
+ag28
+ag275
+ag209
+ag1157
+ag48
+ag33
+ag484
+ag327
+ag1360
+ag167
+ag59
+ag601
+ag143
+ag1330
+ag690
+ag723
+ag1437
+ag1222
+ag152
+ag123
+ag1507
+ag806
+ag1619
+ag86
+ag73
+ag498
+ag236
+ag16
+ag200
+ag1138
+atp2438
+Rp2439
+sg7
+g1665
+((lp2440
+g964
+ag8
+ag71
+ag1324
+ag702
+ag227
+ag686
+ag1340
+ag13
+ag1252
+ag19
+ag731
+ag410
+ag529
+ag288
+ag516
+ag56
+ag808
+ag899
+ag905
+ag594
+ag1597
+atp2441
+Rp2442
+sg25
+g1665
+((lp2443
+g632
+ag198
+ag26
+ag993
+ag1455
+ag303
+ag790
+ag1310
+ag976
+ag51
+ag19
+ag42
+ag542
+ag1292
+ag909
+ag673
+ag1388
+ag267
+ag323
+atp2444
+Rp2445
+sg71
+g1665
+((lp2446
+g7
+atp2447
+Rp2448
+sg1163
+g1665
+((lp2449
+g42
+ag25
+atp2450
+Rp2451
+sg113
+g1665
+((lp2452
+g128
+ag86
+ag48
+atp2453
+Rp2454
+sg1324
+g1665
+((lp2455
+g7
+atp2456
+Rp2457
+sg345
+g1665
+((lp2458
+g198
+atp2459
+Rp2460
+sg820
+g1665
+((lp2461
+g16
+ag62
+ag28
+atp2462
+Rp2463
+sg246
+g1665
+((lp2464
+g883
+ag451
+ag1344
+ag544
+ag1120
+ag102
+ag369
+ag798
+ag1352
+ag247
+ag694
+ag1061
+ag1308
+ag174
+ag652
+ag567
+ag1220
+ag486
+ag1236
+ag381
+atp2465
+Rp2466
+sg319
+g1665
+((lp2467
+g10
+atp2468
+Rp2469
+sg1405
+g1665
+((lp2470
+g198
+ag212
+ag7
+ag241
+ag56
+ag25
+atp2471
+Rp2472
+sg1632
+g1665
+((lp2473
+g39
+atp2474
+Rp2475
+sg183
+g1665
+((lp2476
+g182
+atp2477
+Rp2478
+sg121
+g1665
+((lp2479
+g83
+atp2480
+Rp2481
+sg381
+g1665
+((lp2482
+g246
+atp2483
+Rp2484
+sg656
+g1665
+((lp2485
+g56
+atp2486
+Rp2487
+sg1260
+g1665
+((lp2488
+g137
+atp2489
+Rp2490
+sg751
+g1665
+((lp2491
+g39
+atp2492
+Rp2493
+sg698
+g1665
+((lp2494
+g62
+ag128
+ag86
+atp2495
+Rp2496
+sg1487
+g1665
+((lp2497
+g152
+atp2498
+Rp2499
+sg478
+g1665
+((lp2500
+g39
+atp2501
+Rp2502
+sg1511
+g1665
+((lp2503
+g86
+atp2504
+Rp2505
+sg1421
+g1665
+((lp2506
+g51
+ag25
+atp2507
+Rp2508
+sg412
+g1665
+((lp2509
+g955
+ag932
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag1641
+ag110
+ag19
+ag28
+ag275
+ag413
+ag33
+ag167
+ag59
+ag143
+ag1591
+ag123
+ag73
+ag538
+ag16
+ag1513
+ag200
+atp2510
+Rp2511
+sg1525
+g1665
+((lp2512
+g198
+atp2513
+Rp2514
+sg1061
+g1665
+((lp2515
+g246
+atp2516
+Rp2517
+sg239
+g1665
+((lp2518
+g86
+atp2519
+Rp2520
+sg209
+g1665
+((lp2521
+g412
+ag210
+ag1203
+ag427
+ag394
+ag105
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag496
+ag110
+ag19
+ag28
+ag275
+ag48
+ag33
+ag167
+ag59
+ag143
+ag1112
+ag634
+ag123
+ag1509
+ag73
+ag559
+ag16
+ag200
+atp2522
+Rp2523
+sg374
+g1665
+((lp2524
+g56
+atp2525
+Rp2526
+sg1334
+g1665
+((lp2527
+g56
+atp2528
+Rp2529
+sg1250
+g1665
+((lp2530
+g137
+atp2531
+Rp2532
+sg43
+g1665
+((lp2533
+g42
+ag25
+atp2534
+Rp2535
+sg165
+g1665
+((lp2536
+g62
+atp2537
+Rp2538
+sg942
+g1665
+((lp2539
+g152
+ag28
+atp2540
+Rp2541
+sg1316
+g1665
+((lp2542
+g42
+ag25
+atp2543
+Rp2544
+sg153
+g1665
+((lp2545
+g152
+atp2546
+Rp2547
+sg1232
+g1665
+((lp2548
+g241
+atp2549
+Rp2550
+sg356
+g1665
+((lp2551
+g241
+atp2552
+Rp2553
+sg1175
+g1665
+((lp2554
+g39
+atp2555
+Rp2556
+sg59
+g1665
+((lp2557
+g1649
+ag1025
+ag555
+ag683
+ag1276
+ag280
+ag644
+ag1256
+ag871
+ag1011
+ag607
+ag13
+ag60
+ag1118
+ag110
+ag19
+ag771
+ag826
+ag476
+ag735
+ag33
+ag991
+ag615
+ag1415
+ag1035
+ag295
+ag1211
+ag949
+ag73
+ag1560
+ag16
+ag1577
+atp2558
+Rp2559
+sg704
+g1665
+((lp2560
+g198
+atp2561
+Rp2562
+sg143
+g1665
+((lp2563
+g1645
+ag1185
+ag675
+ag1037
+ag394
+ag105
+ag1304
+ag10
+ag36
+ag76
+ag292
+ag13
+ag39
+ag1044
+ag110
+ag19
+ag28
+ag865
+ag584
+ag33
+ag167
+ag59
+ag275
+ag755
+ag123
+ag642
+ag1019
+ag73
+ag779
+ag16
+ag200
+atp2564
+Rp2565
+sg1306
+g1665
+((lp2566
+g198
+atp2567
+Rp2568
+sg187
+g1665
+((lp2569
+g36
+atp2570
+Rp2571
+sg982
+g1665
+((lp2572
+g241
+atp2573
+Rp2574
+sg1138
+g1665
+((lp2575
+g62
+atp2576
+Rp2577
+sg690
+g1665
+((lp2578
+g62
+atp2579
+Rp2580
+sg1402
+g1665
+((lp2581
+g14
+atp2582
+Rp2583
+sg514
+g1665
+((lp2584
+g56
+atp2585
+Rp2586
+sg56
+g1665
+((lp2587
+g656
+ag1599
+ag1589
+ag374
+ag514
+ag13
+ag1398
+ag563
+ag841
+ag638
+ag57
+ag19
+ag822
+ag565
+ag1334
+ag1059
+ag1405
+ag145
+ag1521
+ag741
+atp2588
+Rp2589
+sg818
+g1665
+((lp2590
+g51
+atp2591
+Rp2592
+sg128
+g1665
+((lp2593
+g824
+ag13
+ag719
+ag86
+ag792
+ag421
+ag714
+ag212
+ag605
+ag19
+ag1258
+ag1601
+ag129
+ag968
+ag617
+atp2594
+Rp2595
+sg640
+g1665
+((lp2596
+g39
+atp2597
+Rp2598
+sg502
+g1665
+((lp2599
+g51
+ag42
+ag25
+atp2600
+Rp2601
+sg919
+g1665
+((lp2602
+g86
+atp2603
+Rp2604
+sg516
+g1665
+((lp2605
+g7
+atp2606
+Rp2607
+sg137
+g1665
+((lp2608
+g1356
+ag569
+ag443
+ag13
+ag1218
+ag253
+ag1260
+ag1250
+ag19
+ag209
+ag966
+ag307
+atp2609
+Rp2610
+sg1077
+g1665
+((lp2611
+g241
+atp2612
+Rp2613
+sg899
+g1665
+((lp2614
+g7
+atp2615
+Rp2616
+sg1282
+g1665
+((lp2617
+g39
+atp2618
+Rp2619
+sg1344
+g1665
+((lp2620
+g28
+ag246
+atp2621
+Rp2622
+sg544
+g1665
+((lp2623
+g246
+atp2624
+Rp2625
+sg1290
+g1665
+((lp2626
+g39
+atp2627
+Rp2628
+sg1159
+g1665
+((lp2629
+g353
+atp2630
+Rp2631
+sg621
+g1665
+((lp2632
+g62
+atp2633
+Rp2634
+sg86
+g1665
+((lp2635
+g1481
+ag1529
+ag157
+ag1092
+ag113
+ag706
+ag1535
+ag698
+ag333
+ag1094
+ag1545
+ag1511
+ag98
+ag665
+ag1193
+ag19
+ag239
+ag869
+ag926
+ag763
+ag599
+ag1374
+ag710
+ag159
+ag919
+ag1073
+ag87
+ag265
+ag1350
+ag347
+ag1023
+ag1007
+ag255
+ag1001
+ag972
+atp2636
+Rp2637
+sg486
+g1665
+((lp2638
+g86
+ag246
+atp2639
+Rp2640
+sg1284
+g1665
+((lp2641
+g36
+atp2642
+Rp2643
+sg1415
+g1665
+((lp2644
+g59
+atp2645
+Rp2646
+sg1177
+g1665
+((lp2647
+g73
+atp2648
+Rp2649
+sg255
+g1665
+((lp2650
+g86
+atp2651
+Rp2652
+sg1183
+g1665
+((lp2653
+g62
+ag28
+atp2654
+Rp2655
+sg753
+g1665
+((lp2656
+g28
+atp2657
+Rp2658
+sg1435
+g1665
+((lp2659
+g198
+atp2660
+Rp2661
+sg470
+g1665
+((lp2662
+g95
+atp2663
+Rp2664
+sg313
+g1665
+((lp2665
+g198
+atp2666
+Rp2667
+sg234
+g1665
+((lp2668
+g152
+atp2669
+Rp2670
+sg1597
+g1665
+((lp2671
+g7
+atp2672
+Rp2673
+ssb.
